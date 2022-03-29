@@ -2,6 +2,15 @@ from nbformat import write
 import networkx as nx
 import numpy as np
 
+import sys
+import json
+import networkx as nx
+from networkx.readwrite import json_graph
+import matplotlib.pyplot as plt
+import numpy as np
+import random
+
+
 def write_nodes_to_csv():
     f = open("nodes.csv", "w+")
     f.write("id\n")
@@ -67,6 +76,16 @@ def set_attributes():
         last_chennal_id += 1
 
 
+def write_expected_lifetimes():
+    f = open("lifeTimes.csv", "w+")
+    f.write("channel_id,life_time\n")
+    
+    EBC = nx.edge_betweenness_centrality(G, k=None, normalized=False, weight=None)
+    
+    lifeTimes = {}
+    for ebc in EBC.items():
+        f.write(",".join([str(G[ebc[0][0]][ebc[0][1]]['id']), str(((G[ebc[0][0]][ebc[0][1]]['capacity'] / avgPaymentAmount) ** 2) / ((ebc[1] * 2) * 4 * r))]) + "\n")
+
 # number of nodes = 100
 # number of channels = 1000
 # 
@@ -77,6 +96,9 @@ fee_proportional = 0
 min_htlc = 100
 timelock = 140
 
+r = 1 / (number_of_nodes**2)
+avgPaymentAmount = 1000000
+
 
 G = nx.gnp_random_graph(number_of_nodes, 0.1)
 
@@ -85,6 +107,7 @@ write_nodes_to_csv()
 write_channels_to_csv()
 write_edges_to_csv()
 
+write_expected_lifetimes()
 
 
 print(G)
