@@ -37,8 +37,8 @@ def write_edges_to_csv():
         edge1_data["to_node_id"] = a["node2_id"]
         edge2_data["to_node_id"] = a["node1_id"]
 
-        edge1_data["balance"] = a["capacity"] / 2
-        edge2_data["balance"] = a["capacity"] / 2
+        edge1_data["balance"] = int(a["capacity"] / 2)
+        edge2_data["balance"] = int(a["capacity"] / 2)
 
         edge1_data["fee_base"] = fee_base
         edge2_data["fee_base"] = fee_base
