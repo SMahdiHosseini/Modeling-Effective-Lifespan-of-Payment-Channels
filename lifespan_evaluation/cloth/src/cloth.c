@@ -316,6 +316,7 @@ int main(int argc, char *argv[]) {
   network = initialize_network(net_params, simulation->random_generator);
   n_nodes = array_len(network->nodes);
   n_edges = array_len(network->edges);
+  // printf("*** n_nodes =  %ld\n", n_nodes);
   printf("PAYMENTS INITIALIZATION\n");
   payments = initialize_payments(pay_params,  n_nodes, simulation->random_generator);
   printf("EVENTS INITIALIZATION\n");
