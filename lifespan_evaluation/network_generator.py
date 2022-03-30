@@ -98,7 +98,7 @@ min_htlc = 100
 timelock = 140
 seed = 10
 
-r = 1 / (number_of_nodes**2)
+r = 1 / (number_of_nodes**2 - number_of_nodes)
 avgPaymentAmount = 1000000
 
 
