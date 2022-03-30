@@ -5,7 +5,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023897 s
+Time consumed by simulation events: 0.024829 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129644.0 ms
 Total simulated time: 3889320.0 ms
@@ -17,7 +17,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.024036 s
+Time consumed by simulation events: 0.032011 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 131999.0 ms
 Total simulated time: 3959970.0 ms
@@ -29,7 +29,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.034576 s
+Time consumed by simulation events: 0.033468 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 131490.0 ms
 Total simulated time: 3944700.0 ms
@@ -41,7 +41,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.027766 s
+Time consumed by simulation events: 0.030503 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 131629.0 ms
 Total simulated time: 3948870.0 ms
@@ -53,7 +53,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.030401 s
+Time consumed by simulation events: 0.021411 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 132994.0 ms
 Total simulated time: 3989820.0 ms
@@ -65,7 +65,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.034155 s
+Time consumed by simulation events: 0.022210 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 127753.0 ms
 Total simulated time: 3832590.0 ms
@@ -77,7 +77,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.024339 s
+Time consumed by simulation events: 0.022351 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 132152.0 ms
 Total simulated time: 3964560.0 ms
@@ -89,7 +89,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021622 s
+Time consumed by simulation events: 0.021735 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129392.0 ms
 Total simulated time: 3881760.0 ms
@@ -101,7 +101,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.024300 s
+Time consumed by simulation events: 0.022490 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129235.0 ms
 Total simulated time: 3877050.0 ms
@@ -113,7 +113,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.020864 s
+Time consumed by simulation events: 0.020931 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 125611.0 ms
 Total simulated time: 3768330.0 ms
@@ -125,7 +125,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023967 s
+Time consumed by simulation events: 0.021889 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128680.0 ms
 Total simulated time: 3860400.0 ms
@@ -137,7 +137,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021071 s
+Time consumed by simulation events: 0.022112 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129063.0 ms
 Total simulated time: 3871890.0 ms
@@ -149,7 +149,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021195 s
+Time consumed by simulation events: 0.021045 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 131629.0 ms
 Total simulated time: 3948870.0 ms
@@ -161,7 +161,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022077 s
+Time consumed by simulation events: 0.022089 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 130533.0 ms
 Total simulated time: 3915990.0 ms
@@ -171,9 +171,9 @@ NETWORK INITIALIZATION
 PAYMENTS INITIALIZATION
 EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
-Time consumed by initial dijkstra executions: 0 s
+Time consumed by initial dijkstra executions: 1 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.020971 s
+Time consumed by simulation events: 0.020727 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128645.0 ms
 Total simulated time: 3859350.0 ms
@@ -185,7 +185,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021757 s
+Time consumed by simulation events: 0.021142 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 132490.0 ms
 Total simulated time: 3974700.0 ms
@@ -197,7 +197,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022473 s
+Time consumed by simulation events: 0.024807 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 126773.0 ms
 Total simulated time: 3803190.0 ms
@@ -207,9 +207,9 @@ NETWORK INITIALIZATION
 PAYMENTS INITIALIZATION
 EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
-Time consumed by initial dijkstra executions: 1 s
+Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.020904 s
+Time consumed by simulation events: 0.021792 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129610.0 ms
 Total simulated time: 3888300.0 ms
@@ -221,7 +221,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022313 s
+Time consumed by simulation events: 0.022106 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129103.0 ms
 Total simulated time: 3873090.0 ms
@@ -233,7 +233,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023172 s
+Time consumed by simulation events: 0.021466 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128042.0 ms
 Total simulated time: 3841260.0 ms
@@ -245,7 +245,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022668 s
+Time consumed by simulation events: 0.022070 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 127075.0 ms
 Total simulated time: 3812250.0 ms
@@ -255,9 +255,9 @@ NETWORK INITIALIZATION
 PAYMENTS INITIALIZATION
 EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
-Time consumed by initial dijkstra executions: 0 s
+Time consumed by initial dijkstra executions: 1 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.020484 s
+Time consumed by simulation events: 0.033450 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 130677.0 ms
 Total simulated time: 3920310.0 ms
@@ -269,7 +269,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023442 s
+Time consumed by simulation events: 0.024110 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 127728.0 ms
 Total simulated time: 3831840.0 ms
@@ -281,7 +281,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022249 s
+Time consumed by simulation events: 0.021602 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 127694.0 ms
 Total simulated time: 3830820.0 ms
@@ -293,7 +293,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022181 s
+Time consumed by simulation events: 0.025030 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128216.0 ms
 Total simulated time: 3846480.0 ms
@@ -305,7 +305,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023737 s
+Time consumed by simulation events: 0.022812 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 125166.0 ms
 Total simulated time: 3754980.0 ms
@@ -317,7 +317,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021326 s
+Time consumed by simulation events: 0.020175 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 126469.0 ms
 Total simulated time: 3794070.0 ms
@@ -329,7 +329,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022415 s
+Time consumed by simulation events: 0.023094 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 126829.0 ms
 Total simulated time: 3804870.0 ms
@@ -341,7 +341,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023393 s
+Time consumed by simulation events: 0.022788 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128312.0 ms
 Total simulated time: 3849360.0 ms
@@ -353,7 +353,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.025201 s
+Time consumed by simulation events: 0.022616 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 126408.0 ms
 Total simulated time: 3792240.0 ms
@@ -365,7 +365,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023259 s
+Time consumed by simulation events: 0.022901 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129693.0 ms
 Total simulated time: 3890790.0 ms
@@ -377,7 +377,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.019673 s
+Time consumed by simulation events: 0.019693 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 127114.0 ms
 Total simulated time: 3813420.0 ms
@@ -389,7 +389,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022302 s
+Time consumed by simulation events: 0.021685 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128557.0 ms
 Total simulated time: 3856710.0 ms
@@ -401,7 +401,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023474 s
+Time consumed by simulation events: 0.021683 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128442.0 ms
 Total simulated time: 3853260.0 ms
@@ -413,7 +413,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022953 s
+Time consumed by simulation events: 0.024708 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 130508.0 ms
 Total simulated time: 3915240.0 ms
@@ -425,7 +425,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023061 s
+Time consumed by simulation events: 0.022506 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 132895.0 ms
 Total simulated time: 3986850.0 ms
@@ -437,7 +437,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.020947 s
+Time consumed by simulation events: 0.020609 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129385.0 ms
 Total simulated time: 3881550.0 ms
@@ -449,7 +449,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021651 s
+Time consumed by simulation events: 0.022890 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 132022.0 ms
 Total simulated time: 3960660.0 ms
@@ -461,7 +461,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023196 s
+Time consumed by simulation events: 0.025034 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129249.0 ms
 Total simulated time: 3877470.0 ms
@@ -473,7 +473,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.024645 s
+Time consumed by simulation events: 0.023505 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129653.0 ms
 Total simulated time: 3889590.0 ms
@@ -483,9 +483,9 @@ NETWORK INITIALIZATION
 PAYMENTS INITIALIZATION
 EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
-Time consumed by initial dijkstra executions: 1 s
+Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021235 s
+Time consumed by simulation events: 0.020928 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129831.0 ms
 Total simulated time: 3894930.0 ms
@@ -497,7 +497,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022308 s
+Time consumed by simulation events: 0.021516 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128437.0 ms
 Total simulated time: 3853110.0 ms
@@ -509,7 +509,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.020547 s
+Time consumed by simulation events: 0.023394 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128087.0 ms
 Total simulated time: 3842610.0 ms
@@ -521,7 +521,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023751 s
+Time consumed by simulation events: 0.022601 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128992.0 ms
 Total simulated time: 3869760.0 ms
@@ -533,7 +533,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021136 s
+Time consumed by simulation events: 0.020855 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129099.0 ms
 Total simulated time: 3872970.0 ms
@@ -545,7 +545,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021465 s
+Time consumed by simulation events: 0.021320 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 126725.0 ms
 Total simulated time: 3801750.0 ms
@@ -557,15 +557,22 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.024819 s
+Time consumed by simulation events: 0.024370 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 125424.0 ms
 Total simulated time: 3762720.0 ms
 SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
 ----------------------------data-number-547-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 0 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 0.022854 s
 COMPUTE SIMULATION OUTPUT STATS
-Batch length: 125424.0 ms
-Total simulated time: 3762720.0 ms
+Batch length: 128058.0 ms
+Total simulated time: 3841740.0 ms
 SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
 ----------------------------data-number-548-generated----------------------------------
 NETWORK INITIALIZATION
@@ -574,7 +581,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.033031 s
+Time consumed by simulation events: 0.023193 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 131740.0 ms
 Total simulated time: 3952200.0 ms
@@ -586,7 +593,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.035268 s
+Time consumed by simulation events: 0.022803 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129330.0 ms
 Total simulated time: 3879900.0 ms
@@ -598,7 +605,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.034143 s
+Time consumed by simulation events: 0.021274 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128344.0 ms
 Total simulated time: 3850320.0 ms
@@ -610,7 +617,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022374 s
+Time consumed by simulation events: 0.021000 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 130005.0 ms
 Total simulated time: 3900150.0 ms
@@ -622,7 +629,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.025799 s
+Time consumed by simulation events: 0.021835 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 130145.0 ms
 Total simulated time: 3904350.0 ms
@@ -632,9 +639,9 @@ NETWORK INITIALIZATION
 PAYMENTS INITIALIZATION
 EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
-Time consumed by initial dijkstra executions: 0 s
+Time consumed by initial dijkstra executions: 1 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021282 s
+Time consumed by simulation events: 0.021259 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 132268.0 ms
 Total simulated time: 3968040.0 ms
@@ -644,9 +651,9 @@ NETWORK INITIALIZATION
 PAYMENTS INITIALIZATION
 EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
-Time consumed by initial dijkstra executions: 1 s
+Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022384 s
+Time consumed by simulation events: 0.028574 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 130609.0 ms
 Total simulated time: 3918270.0 ms
@@ -658,7 +665,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021582 s
+Time consumed by simulation events: 0.022647 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 131902.0 ms
 Total simulated time: 3957060.0 ms
@@ -670,7 +677,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021706 s
+Time consumed by simulation events: 0.023420 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 131373.0 ms
 Total simulated time: 3941190.0 ms
@@ -682,7 +689,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023804 s
+Time consumed by simulation events: 0.024047 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 126678.0 ms
 Total simulated time: 3800340.0 ms
@@ -694,7 +701,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021670 s
+Time consumed by simulation events: 0.021812 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128348.0 ms
 Total simulated time: 3850440.0 ms
@@ -706,7 +713,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021190 s
+Time consumed by simulation events: 0.021039 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 130766.0 ms
 Total simulated time: 3922980.0 ms
@@ -718,7 +725,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022542 s
+Time consumed by simulation events: 0.020470 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 126303.0 ms
 Total simulated time: 3789090.0 ms
@@ -730,7 +737,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021902 s
+Time consumed by simulation events: 0.021700 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 127056.0 ms
 Total simulated time: 3811680.0 ms
@@ -740,9 +747,9 @@ NETWORK INITIALIZATION
 PAYMENTS INITIALIZATION
 EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
-Time consumed by initial dijkstra executions: 0 s
+Time consumed by initial dijkstra executions: 1 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021684 s
+Time consumed by simulation events: 0.025201 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 127817.0 ms
 Total simulated time: 3834510.0 ms
@@ -754,7 +761,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023547 s
+Time consumed by simulation events: 0.020909 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 125108.0 ms
 Total simulated time: 3753240.0 ms
@@ -766,7 +773,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.024020 s
+Time consumed by simulation events: 0.022362 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 130691.0 ms
 Total simulated time: 3920730.0 ms
@@ -778,7 +785,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.020870 s
+Time consumed by simulation events: 0.020788 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 127814.0 ms
 Total simulated time: 3834420.0 ms
@@ -790,7 +797,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.020735 s
+Time consumed by simulation events: 0.023931 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 132338.0 ms
 Total simulated time: 3970140.0 ms
@@ -802,7 +809,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023542 s
+Time consumed by simulation events: 0.021058 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 131925.0 ms
 Total simulated time: 3957750.0 ms
@@ -814,7 +821,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021610 s
+Time consumed by simulation events: 0.021381 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128480.0 ms
 Total simulated time: 3854400.0 ms
@@ -826,7 +833,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021400 s
+Time consumed by simulation events: 0.021309 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129876.0 ms
 Total simulated time: 3896280.0 ms
@@ -836,9 +843,9 @@ NETWORK INITIALIZATION
 PAYMENTS INITIALIZATION
 EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
-Time consumed by initial dijkstra executions: 1 s
+Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.024725 s
+Time consumed by simulation events: 0.021164 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129255.0 ms
 Total simulated time: 3877650.0 ms
@@ -850,7 +857,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021380 s
+Time consumed by simulation events: 0.023692 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 126422.0 ms
 Total simulated time: 3792660.0 ms
@@ -862,7 +869,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021495 s
+Time consumed by simulation events: 0.021792 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129675.0 ms
 Total simulated time: 3890250.0 ms
@@ -874,7 +881,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.024498 s
+Time consumed by simulation events: 0.019796 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 126042.0 ms
 Total simulated time: 3781260.0 ms
@@ -886,7 +893,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022546 s
+Time consumed by simulation events: 0.022347 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 130063.0 ms
 Total simulated time: 3901890.0 ms
@@ -898,7 +905,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023593 s
+Time consumed by simulation events: 0.022908 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 127689.0 ms
 Total simulated time: 3830670.0 ms
@@ -910,7 +917,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022204 s
+Time consumed by simulation events: 0.024867 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 126914.0 ms
 Total simulated time: 3807420.0 ms
@@ -920,9 +927,9 @@ NETWORK INITIALIZATION
 PAYMENTS INITIALIZATION
 EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
-Time consumed by initial dijkstra executions: 1 s
+Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023624 s
+Time consumed by simulation events: 0.024114 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129466.0 ms
 Total simulated time: 3883980.0 ms
@@ -934,7 +941,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021773 s
+Time consumed by simulation events: 0.023147 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 126664.0 ms
 Total simulated time: 3799920.0 ms
@@ -946,7 +953,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.027805 s
+Time consumed by simulation events: 0.022663 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128447.0 ms
 Total simulated time: 3853410.0 ms
@@ -958,7 +965,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021465 s
+Time consumed by simulation events: 0.021571 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 127235.0 ms
 Total simulated time: 3817050.0 ms
@@ -968,9 +975,9 @@ NETWORK INITIALIZATION
 PAYMENTS INITIALIZATION
 EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
-Time consumed by initial dijkstra executions: 0 s
+Time consumed by initial dijkstra executions: 1 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022791 s
+Time consumed by simulation events: 0.023197 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128356.0 ms
 Total simulated time: 3850680.0 ms
@@ -982,7 +989,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.025669 s
+Time consumed by simulation events: 0.021289 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 126273.0 ms
 Total simulated time: 3788190.0 ms
@@ -994,7 +1001,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021309 s
+Time consumed by simulation events: 0.021167 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 126617.0 ms
 Total simulated time: 3798510.0 ms
@@ -1006,7 +1013,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022270 s
+Time consumed by simulation events: 0.022246 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 127394.0 ms
 Total simulated time: 3821820.0 ms
@@ -1018,7 +1025,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.024508 s
+Time consumed by simulation events: 0.021922 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129694.0 ms
 Total simulated time: 3890820.0 ms
@@ -1028,9 +1035,9 @@ NETWORK INITIALIZATION
 PAYMENTS INITIALIZATION
 EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
-Time consumed by initial dijkstra executions: 1 s
+Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023587 s
+Time consumed by simulation events: 0.025272 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 127387.0 ms
 Total simulated time: 3821610.0 ms
@@ -1042,7 +1049,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022950 s
+Time consumed by simulation events: 0.022991 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128005.0 ms
 Total simulated time: 3840150.0 ms
@@ -1052,9 +1059,9 @@ NETWORK INITIALIZATION
 PAYMENTS INITIALIZATION
 EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
-Time consumed by initial dijkstra executions: 0 s
+Time consumed by initial dijkstra executions: 1 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.024950 s
+Time consumed by simulation events: 0.021882 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 131398.0 ms
 Total simulated time: 3941940.0 ms
@@ -1066,7 +1073,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022121 s
+Time consumed by simulation events: 0.021640 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 127604.0 ms
 Total simulated time: 3828120.0 ms
@@ -1078,7 +1085,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023030 s
+Time consumed by simulation events: 0.022480 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128704.0 ms
 Total simulated time: 3861120.0 ms
@@ -1090,7 +1097,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.024722 s
+Time consumed by simulation events: 0.023382 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 127606.0 ms
 Total simulated time: 3828180.0 ms
@@ -1102,7 +1109,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022140 s
+Time consumed by simulation events: 0.022127 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 131008.0 ms
 Total simulated time: 3930240.0 ms
@@ -1112,9 +1119,9 @@ NETWORK INITIALIZATION
 PAYMENTS INITIALIZATION
 EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
-Time consumed by initial dijkstra executions: 1 s
+Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022353 s
+Time consumed by simulation events: 0.021342 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 132335.0 ms
 Total simulated time: 3970050.0 ms
@@ -1126,7 +1133,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023844 s
+Time consumed by simulation events: 0.022021 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129880.0 ms
 Total simulated time: 3896400.0 ms
@@ -1136,9 +1143,9 @@ NETWORK INITIALIZATION
 PAYMENTS INITIALIZATION
 EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
-Time consumed by initial dijkstra executions: 0 s
+Time consumed by initial dijkstra executions: 1 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.020407 s
+Time consumed by simulation events: 0.020332 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128741.0 ms
 Total simulated time: 3862230.0 ms
@@ -1150,7 +1157,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021129 s
+Time consumed by simulation events: 0.021509 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 126703.0 ms
 Total simulated time: 3801090.0 ms
@@ -1162,7 +1169,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023843 s
+Time consumed by simulation events: 0.021890 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129295.0 ms
 Total simulated time: 3878850.0 ms
@@ -1174,7 +1181,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.020935 s
+Time consumed by simulation events: 0.020588 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 126265.0 ms
 Total simulated time: 3787950.0 ms
@@ -1186,7 +1193,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023399 s
+Time consumed by simulation events: 0.025484 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 125485.0 ms
 Total simulated time: 3764550.0 ms
@@ -1198,7 +1205,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023668 s
+Time consumed by simulation events: 0.022558 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 127506.0 ms
 Total simulated time: 3825180.0 ms
@@ -1210,7 +1217,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021400 s
+Time consumed by simulation events: 0.021226 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 125557.0 ms
 Total simulated time: 3766710.0 ms
@@ -1220,9 +1227,9 @@ NETWORK INITIALIZATION
 PAYMENTS INITIALIZATION
 EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
-Time consumed by initial dijkstra executions: 1 s
+Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.024329 s
+Time consumed by simulation events: 0.021639 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 133293.0 ms
 Total simulated time: 3998790.0 ms
@@ -1234,7 +1241,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022307 s
+Time consumed by simulation events: 0.024307 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 126168.0 ms
 Total simulated time: 3785040.0 ms
@@ -1246,7 +1253,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023697 s
+Time consumed by simulation events: 0.022341 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 124330.0 ms
 Total simulated time: 3729900.0 ms
@@ -1258,7 +1265,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.025134 s
+Time consumed by simulation events: 0.022622 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 127948.0 ms
 Total simulated time: 3838440.0 ms
@@ -1270,7 +1277,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021819 s
+Time consumed by simulation events: 0.022429 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129491.0 ms
 Total simulated time: 3884730.0 ms
@@ -1282,7 +1289,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.020727 s
+Time consumed by simulation events: 0.022487 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 127922.0 ms
 Total simulated time: 3837660.0 ms
@@ -1294,7 +1301,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.024846 s
+Time consumed by simulation events: 0.023672 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128927.0 ms
 Total simulated time: 3867810.0 ms
@@ -1304,9 +1311,9 @@ NETWORK INITIALIZATION
 PAYMENTS INITIALIZATION
 EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
-Time consumed by initial dijkstra executions: 1 s
+Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023233 s
+Time consumed by simulation events: 0.021182 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128641.0 ms
 Total simulated time: 3859230.0 ms
@@ -1318,7 +1325,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021050 s
+Time consumed by simulation events: 0.020884 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 131250.0 ms
 Total simulated time: 3937500.0 ms
@@ -1330,7 +1337,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023914 s
+Time consumed by simulation events: 0.021941 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128667.0 ms
 Total simulated time: 3860010.0 ms
@@ -1342,7 +1349,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022902 s
+Time consumed by simulation events: 0.022202 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 124331.0 ms
 Total simulated time: 3729930.0 ms
@@ -1354,7 +1361,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023083 s
+Time consumed by simulation events: 0.027380 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128739.0 ms
 Total simulated time: 3862170.0 ms
@@ -1364,9 +1371,9 @@ NETWORK INITIALIZATION
 PAYMENTS INITIALIZATION
 EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
-Time consumed by initial dijkstra executions: 0 s
+Time consumed by initial dijkstra executions: 1 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.024010 s
+Time consumed by simulation events: 0.022460 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 127336.0 ms
 Total simulated time: 3820080.0 ms
@@ -1378,7 +1385,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021708 s
+Time consumed by simulation events: 0.019299 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 127655.0 ms
 Total simulated time: 3829650.0 ms
@@ -1390,7 +1397,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.020398 s
+Time consumed by simulation events: 0.020323 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129385.0 ms
 Total simulated time: 3881550.0 ms
@@ -1402,7 +1409,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.026061 s
+Time consumed by simulation events: 0.022590 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128886.0 ms
 Total simulated time: 3866580.0 ms
@@ -1412,9 +1419,9 @@ NETWORK INITIALIZATION
 PAYMENTS INITIALIZATION
 EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
-Time consumed by initial dijkstra executions: 1 s
+Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023292 s
+Time consumed by simulation events: 0.022586 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129348.0 ms
 Total simulated time: 3880440.0 ms
@@ -1426,7 +1433,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021465 s
+Time consumed by simulation events: 0.021180 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128835.0 ms
 Total simulated time: 3865050.0 ms
@@ -1438,7 +1445,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022935 s
+Time consumed by simulation events: 0.021081 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 133166.0 ms
 Total simulated time: 3994980.0 ms
@@ -1448,9 +1455,9 @@ NETWORK INITIALIZATION
 PAYMENTS INITIALIZATION
 EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
-Time consumed by initial dijkstra executions: 0 s
+Time consumed by initial dijkstra executions: 1 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023613 s
+Time consumed by simulation events: 0.023098 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 125996.0 ms
 Total simulated time: 3779880.0 ms
@@ -1462,7 +1469,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.020274 s
+Time consumed by simulation events: 0.021360 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 131660.0 ms
 Total simulated time: 3949800.0 ms
@@ -1474,7 +1481,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022011 s
+Time consumed by simulation events: 0.022403 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129568.0 ms
 Total simulated time: 3887040.0 ms
@@ -1486,7 +1493,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022582 s
+Time consumed by simulation events: 0.021571 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 126108.0 ms
 Total simulated time: 3783240.0 ms
@@ -1496,9 +1503,9 @@ NETWORK INITIALIZATION
 PAYMENTS INITIALIZATION
 EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
-Time consumed by initial dijkstra executions: 1 s
+Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.020546 s
+Time consumed by simulation events: 0.020689 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 127106.0 ms
 Total simulated time: 3813180.0 ms
@@ -1510,7 +1517,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.027614 s
+Time consumed by simulation events: 0.020825 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 130918.0 ms
 Total simulated time: 3927540.0 ms
@@ -1522,7 +1529,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021749 s
+Time consumed by simulation events: 0.021318 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129494.0 ms
 Total simulated time: 3884820.0 ms
@@ -1534,7 +1541,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023660 s
+Time consumed by simulation events: 0.024076 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 130919.0 ms
 Total simulated time: 3927570.0 ms
@@ -1546,7 +1553,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021445 s
+Time consumed by simulation events: 0.020833 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128054.0 ms
 Total simulated time: 3841620.0 ms
@@ -1558,7 +1565,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022063 s
+Time consumed by simulation events: 0.021223 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129570.0 ms
 Total simulated time: 3887100.0 ms
@@ -1570,7 +1577,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.026512 s
+Time consumed by simulation events: 0.021652 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 130546.0 ms
 Total simulated time: 3916380.0 ms
@@ -1582,7 +1589,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022563 s
+Time consumed by simulation events: 0.022871 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 131605.0 ms
 Total simulated time: 3948150.0 ms
@@ -1594,7 +1601,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021883 s
+Time consumed by simulation events: 0.024206 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 127418.0 ms
 Total simulated time: 3822540.0 ms
@@ -1604,9 +1611,9 @@ NETWORK INITIALIZATION
 PAYMENTS INITIALIZATION
 EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
-Time consumed by initial dijkstra executions: 1 s
+Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.024131 s
+Time consumed by simulation events: 0.022797 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129802.0 ms
 Total simulated time: 3894060.0 ms
@@ -1618,7 +1625,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022027 s
+Time consumed by simulation events: 0.021905 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 126614.0 ms
 Total simulated time: 3798420.0 ms
@@ -1630,7 +1637,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.020992 s
+Time consumed by simulation events: 0.020989 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128038.0 ms
 Total simulated time: 3841140.0 ms
@@ -1642,7 +1649,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022681 s
+Time consumed by simulation events: 0.021690 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129732.0 ms
 Total simulated time: 3891960.0 ms
@@ -1654,7 +1661,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.020297 s
+Time consumed by simulation events: 0.020833 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128764.0 ms
 Total simulated time: 3862920.0 ms
@@ -1666,7 +1673,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022638 s
+Time consumed by simulation events: 0.021860 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 130547.0 ms
 Total simulated time: 3916410.0 ms
@@ -1676,9 +1683,9 @@ NETWORK INITIALIZATION
 PAYMENTS INITIALIZATION
 EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
-Time consumed by initial dijkstra executions: 0 s
+Time consumed by initial dijkstra executions: 1 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023592 s
+Time consumed by simulation events: 0.021970 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129336.0 ms
 Total simulated time: 3880080.0 ms
@@ -1690,7 +1697,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022262 s
+Time consumed by simulation events: 0.022121 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 131367.0 ms
 Total simulated time: 3941010.0 ms
@@ -1702,7 +1709,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.024293 s
+Time consumed by simulation events: 0.023487 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129925.0 ms
 Total simulated time: 3897750.0 ms
@@ -1714,7 +1721,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021429 s
+Time consumed by simulation events: 0.021614 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 124465.0 ms
 Total simulated time: 3733950.0 ms
@@ -1726,7 +1733,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022862 s
+Time consumed by simulation events: 0.022416 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128119.0 ms
 Total simulated time: 3843570.0 ms
@@ -1738,7 +1745,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022105 s
+Time consumed by simulation events: 0.021445 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128293.0 ms
 Total simulated time: 3848790.0 ms
@@ -1750,7 +1757,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021538 s
+Time consumed by simulation events: 0.020486 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129902.0 ms
 Total simulated time: 3897060.0 ms
@@ -1762,7 +1769,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022540 s
+Time consumed by simulation events: 0.022152 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128981.0 ms
 Total simulated time: 3869430.0 ms
@@ -1774,7 +1781,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.020831 s
+Time consumed by simulation events: 0.024212 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128373.0 ms
 Total simulated time: 3851190.0 ms
@@ -1786,7 +1793,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023341 s
+Time consumed by simulation events: 0.021560 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128621.0 ms
 Total simulated time: 3858630.0 ms
@@ -1796,9 +1803,9 @@ NETWORK INITIALIZATION
 PAYMENTS INITIALIZATION
 EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
-Time consumed by initial dijkstra executions: 1 s
+Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022759 s
+Time consumed by simulation events: 0.022392 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 130799.0 ms
 Total simulated time: 3923970.0 ms
@@ -1810,7 +1817,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023031 s
+Time consumed by simulation events: 0.021835 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129264.0 ms
 Total simulated time: 3877920.0 ms
@@ -1822,7 +1829,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022691 s
+Time consumed by simulation events: 0.023557 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 126709.0 ms
 Total simulated time: 3801270.0 ms
@@ -1834,7 +1841,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021716 s
+Time consumed by simulation events: 0.023433 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 133757.0 ms
 Total simulated time: 4012710.0 ms
@@ -1846,7 +1853,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.029159 s
+Time consumed by simulation events: 0.022698 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 127688.0 ms
 Total simulated time: 3830640.0 ms
@@ -1858,7 +1865,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021083 s
+Time consumed by simulation events: 0.021167 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128339.0 ms
 Total simulated time: 3850170.0 ms
@@ -1870,7 +1877,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.024027 s
+Time consumed by simulation events: 0.021794 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128160.0 ms
 Total simulated time: 3844800.0 ms
@@ -1882,7 +1889,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023612 s
+Time consumed by simulation events: 0.023603 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128447.0 ms
 Total simulated time: 3853410.0 ms
@@ -1894,7 +1901,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021357 s
+Time consumed by simulation events: 0.022718 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 132043.0 ms
 Total simulated time: 3961290.0 ms
@@ -1906,7 +1913,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023166 s
+Time consumed by simulation events: 0.022617 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128596.0 ms
 Total simulated time: 3857880.0 ms
@@ -1918,7 +1925,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023493 s
+Time consumed by simulation events: 0.020629 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129538.0 ms
 Total simulated time: 3886140.0 ms
@@ -1930,7 +1937,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021071 s
+Time consumed by simulation events: 0.021499 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128898.0 ms
 Total simulated time: 3866940.0 ms
@@ -1942,7 +1949,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023899 s
+Time consumed by simulation events: 0.023605 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 132209.0 ms
 Total simulated time: 3966270.0 ms
@@ -1954,7 +1961,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.025278 s
+Time consumed by simulation events: 0.023597 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128987.0 ms
 Total simulated time: 3869610.0 ms
@@ -1966,7 +1973,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021044 s
+Time consumed by simulation events: 0.020989 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129842.0 ms
 Total simulated time: 3895260.0 ms
@@ -1978,7 +1985,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021589 s
+Time consumed by simulation events: 0.019806 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 130122.0 ms
 Total simulated time: 3903660.0 ms
@@ -1990,7 +1997,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 1 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022790 s
+Time consumed by simulation events: 0.022661 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128805.0 ms
 Total simulated time: 3864150.0 ms
@@ -2002,7 +2009,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021914 s
+Time consumed by simulation events: 0.022348 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129085.0 ms
 Total simulated time: 3872550.0 ms
@@ -2014,7 +2021,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.024420 s
+Time consumed by simulation events: 0.021759 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128142.0 ms
 Total simulated time: 3844260.0 ms
@@ -2026,7 +2033,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021302 s
+Time consumed by simulation events: 0.020591 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 126845.0 ms
 Total simulated time: 3805350.0 ms
@@ -2038,7 +2045,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021354 s
+Time consumed by simulation events: 0.021395 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129401.0 ms
 Total simulated time: 3882030.0 ms
@@ -2050,7 +2057,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.025578 s
+Time consumed by simulation events: 0.026081 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 130559.0 ms
 Total simulated time: 3916770.0 ms
@@ -2062,7 +2069,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021814 s
+Time consumed by simulation events: 0.021055 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 127901.0 ms
 Total simulated time: 3837030.0 ms
@@ -2072,9 +2079,9 @@ NETWORK INITIALIZATION
 PAYMENTS INITIALIZATION
 EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
-Time consumed by initial dijkstra executions: 0 s
+Time consumed by initial dijkstra executions: 1 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021078 s
+Time consumed by simulation events: 0.021104 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 132613.0 ms
 Total simulated time: 3978390.0 ms
@@ -2086,7 +2093,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.020574 s
+Time consumed by simulation events: 0.021191 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 127747.0 ms
 Total simulated time: 3832410.0 ms
@@ -2096,9 +2103,9 @@ NETWORK INITIALIZATION
 PAYMENTS INITIALIZATION
 EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
-Time consumed by initial dijkstra executions: 1 s
+Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023008 s
+Time consumed by simulation events: 0.023970 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 130997.0 ms
 Total simulated time: 3929910.0 ms
@@ -2110,7 +2117,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.024062 s
+Time consumed by simulation events: 0.022816 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 127707.0 ms
 Total simulated time: 3831210.0 ms
@@ -2122,7 +2129,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021490 s
+Time consumed by simulation events: 0.021095 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128024.0 ms
 Total simulated time: 3840720.0 ms
@@ -2134,7 +2141,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022493 s
+Time consumed by simulation events: 0.021759 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128864.0 ms
 Total simulated time: 3865920.0 ms
@@ -2146,7 +2153,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023476 s
+Time consumed by simulation events: 0.021748 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 131836.0 ms
 Total simulated time: 3955080.0 ms
@@ -2158,7 +2165,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021364 s
+Time consumed by simulation events: 0.023612 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 127007.0 ms
 Total simulated time: 3810210.0 ms
@@ -2170,7 +2177,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.024397 s
+Time consumed by simulation events: 0.022917 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 132250.0 ms
 Total simulated time: 3967500.0 ms
@@ -2182,7 +2189,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021806 s
+Time consumed by simulation events: 0.021635 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128182.0 ms
 Total simulated time: 3845460.0 ms
@@ -2194,7 +2201,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021659 s
+Time consumed by simulation events: 0.021505 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 130030.0 ms
 Total simulated time: 3900900.0 ms
@@ -2206,7 +2213,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022976 s
+Time consumed by simulation events: 0.020493 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 126615.0 ms
 Total simulated time: 3798450.0 ms
@@ -2218,7 +2225,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.020566 s
+Time consumed by simulation events: 0.020351 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129890.0 ms
 Total simulated time: 3896700.0 ms
@@ -2230,7 +2237,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.020165 s
+Time consumed by simulation events: 0.024066 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128510.0 ms
 Total simulated time: 3855300.0 ms
@@ -2242,7 +2249,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023034 s
+Time consumed by simulation events: 0.021507 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129449.0 ms
 Total simulated time: 3883470.0 ms
@@ -2254,7 +2261,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021307 s
+Time consumed by simulation events: 0.021717 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 132221.0 ms
 Total simulated time: 3966630.0 ms
@@ -2266,7 +2273,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021578 s
+Time consumed by simulation events: 0.021086 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 130385.0 ms
 Total simulated time: 3911550.0 ms
@@ -2278,7 +2285,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.024264 s
+Time consumed by simulation events: 0.021003 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 127979.0 ms
 Total simulated time: 3839370.0 ms
@@ -2288,9 +2295,9 @@ NETWORK INITIALIZATION
 PAYMENTS INITIALIZATION
 EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
-Time consumed by initial dijkstra executions: 1 s
+Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021610 s
+Time consumed by simulation events: 0.024778 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128761.0 ms
 Total simulated time: 3862830.0 ms
@@ -2300,9 +2307,9 @@ NETWORK INITIALIZATION
 PAYMENTS INITIALIZATION
 EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
-Time consumed by initial dijkstra executions: 0 s
+Time consumed by initial dijkstra executions: 1 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023119 s
+Time consumed by simulation events: 0.021289 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 126728.0 ms
 Total simulated time: 3801840.0 ms
@@ -2314,7 +2321,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022625 s
+Time consumed by simulation events: 0.021198 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 130099.0 ms
 Total simulated time: 3902970.0 ms
@@ -2326,7 +2333,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.025338 s
+Time consumed by simulation events: 0.021781 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 127832.0 ms
 Total simulated time: 3834960.0 ms
@@ -2338,7 +2345,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021560 s
+Time consumed by simulation events: 0.022130 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128970.0 ms
 Total simulated time: 3869100.0 ms
@@ -2350,7 +2357,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022245 s
+Time consumed by simulation events: 0.021000 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128126.0 ms
 Total simulated time: 3843780.0 ms
@@ -2362,7 +2369,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022751 s
+Time consumed by simulation events: 0.021480 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 127799.0 ms
 Total simulated time: 3833970.0 ms
@@ -2374,7 +2381,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022259 s
+Time consumed by simulation events: 0.021734 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 130493.0 ms
 Total simulated time: 3914790.0 ms
@@ -2384,9 +2391,9 @@ NETWORK INITIALIZATION
 PAYMENTS INITIALIZATION
 EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
-Time consumed by initial dijkstra executions: 0 s
+Time consumed by initial dijkstra executions: 1 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.027306 s
+Time consumed by simulation events: 0.021460 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129502.0 ms
 Total simulated time: 3885060.0 ms
@@ -2398,7 +2405,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021203 s
+Time consumed by simulation events: 0.025089 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 125308.0 ms
 Total simulated time: 3759240.0 ms
@@ -2410,7 +2417,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023102 s
+Time consumed by simulation events: 0.021121 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 127771.0 ms
 Total simulated time: 3833130.0 ms
@@ -2422,7 +2429,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022629 s
+Time consumed by simulation events: 0.020871 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 126853.0 ms
 Total simulated time: 3805590.0 ms
@@ -2434,7 +2441,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021758 s
+Time consumed by simulation events: 0.021009 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 127533.0 ms
 Total simulated time: 3825990.0 ms
@@ -2446,7 +2453,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021901 s
+Time consumed by simulation events: 0.024820 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 127189.0 ms
 Total simulated time: 3815670.0 ms
@@ -2458,7 +2465,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022139 s
+Time consumed by simulation events: 0.021179 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 126934.0 ms
 Total simulated time: 3808020.0 ms
@@ -2468,9 +2475,9 @@ NETWORK INITIALIZATION
 PAYMENTS INITIALIZATION
 EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
-Time consumed by initial dijkstra executions: 0 s
+Time consumed by initial dijkstra executions: 1 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023691 s
+Time consumed by simulation events: 0.021028 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 130138.0 ms
 Total simulated time: 3904140.0 ms
@@ -2482,7 +2489,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022630 s
+Time consumed by simulation events: 0.021621 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 126428.0 ms
 Total simulated time: 3792840.0 ms
@@ -2494,7 +2501,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021555 s
+Time consumed by simulation events: 0.020286 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 127260.0 ms
 Total simulated time: 3817800.0 ms
@@ -2506,7 +2513,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.024244 s
+Time consumed by simulation events: 0.024298 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 130915.0 ms
 Total simulated time: 3927450.0 ms
@@ -2518,7 +2525,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021176 s
+Time consumed by simulation events: 0.022297 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128217.0 ms
 Total simulated time: 3846510.0 ms
@@ -2528,9 +2535,9 @@ NETWORK INITIALIZATION
 PAYMENTS INITIALIZATION
 EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
-Time consumed by initial dijkstra executions: 1 s
+Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.028330 s
+Time consumed by simulation events: 0.023556 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 126411.0 ms
 Total simulated time: 3792330.0 ms
@@ -2542,7 +2549,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.024672 s
+Time consumed by simulation events: 0.021833 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 131066.0 ms
 Total simulated time: 3931980.0 ms
@@ -2554,7 +2561,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021743 s
+Time consumed by simulation events: 0.020770 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 132107.0 ms
 Total simulated time: 3963210.0 ms
@@ -2566,7 +2573,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022519 s
+Time consumed by simulation events: 0.021254 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 130389.0 ms
 Total simulated time: 3911670.0 ms
@@ -2578,7 +2585,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022670 s
+Time consumed by simulation events: 0.023485 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128409.0 ms
 Total simulated time: 3852270.0 ms
@@ -2590,7 +2597,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021902 s
+Time consumed by simulation events: 0.022767 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 131310.0 ms
 Total simulated time: 3939300.0 ms
@@ -2602,7 +2609,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.020592 s
+Time consumed by simulation events: 0.019630 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 131086.0 ms
 Total simulated time: 3932580.0 ms
@@ -2612,9 +2619,9 @@ NETWORK INITIALIZATION
 PAYMENTS INITIALIZATION
 EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
-Time consumed by initial dijkstra executions: 0 s
+Time consumed by initial dijkstra executions: 1 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022428 s
+Time consumed by simulation events: 0.021780 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128608.0 ms
 Total simulated time: 3858240.0 ms
@@ -2626,7 +2633,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021589 s
+Time consumed by simulation events: 0.021390 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 131688.0 ms
 Total simulated time: 3950640.0 ms
@@ -2636,9 +2643,9 @@ NETWORK INITIALIZATION
 PAYMENTS INITIALIZATION
 EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
-Time consumed by initial dijkstra executions: 1 s
+Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.024006 s
+Time consumed by simulation events: 0.023474 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129876.0 ms
 Total simulated time: 3896280.0 ms
@@ -2650,7 +2657,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022374 s
+Time consumed by simulation events: 0.022552 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 131150.0 ms
 Total simulated time: 3934500.0 ms
@@ -2662,7 +2669,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.025341 s
+Time consumed by simulation events: 0.021321 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129468.0 ms
 Total simulated time: 3884040.0 ms
@@ -2674,7 +2681,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023031 s
+Time consumed by simulation events: 0.021903 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 131961.0 ms
 Total simulated time: 3958830.0 ms
@@ -2686,7 +2693,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023310 s
+Time consumed by simulation events: 0.020985 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129145.0 ms
 Total simulated time: 3874350.0 ms
@@ -2696,9 +2703,9 @@ NETWORK INITIALIZATION
 PAYMENTS INITIALIZATION
 EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
-Time consumed by initial dijkstra executions: 0 s
+Time consumed by initial dijkstra executions: 1 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021687 s
+Time consumed by simulation events: 0.024135 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 130131.0 ms
 Total simulated time: 3903930.0 ms
@@ -2710,7 +2717,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022030 s
+Time consumed by simulation events: 0.022161 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128223.0 ms
 Total simulated time: 3846690.0 ms
@@ -2722,7 +2729,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023232 s
+Time consumed by simulation events: 0.022342 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 130070.0 ms
 Total simulated time: 3902100.0 ms
@@ -2734,7 +2741,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023248 s
+Time consumed by simulation events: 0.022817 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 125834.0 ms
 Total simulated time: 3775020.0 ms
@@ -2744,9 +2751,9 @@ NETWORK INITIALIZATION
 PAYMENTS INITIALIZATION
 EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
-Time consumed by initial dijkstra executions: 1 s
+Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.025265 s
+Time consumed by simulation events: 0.023366 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129317.0 ms
 Total simulated time: 3879510.0 ms
@@ -2758,7 +2765,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.027713 s
+Time consumed by simulation events: 0.024950 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128200.0 ms
 Total simulated time: 3846000.0 ms
@@ -2768,9 +2775,9 @@ NETWORK INITIALIZATION
 PAYMENTS INITIALIZATION
 EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
-Time consumed by initial dijkstra executions: 1 s
+Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022234 s
+Time consumed by simulation events: 0.021234 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128865.0 ms
 Total simulated time: 3865950.0 ms
@@ -2782,7 +2789,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.026643 s
+Time consumed by simulation events: 0.022257 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 130495.0 ms
 Total simulated time: 3914850.0 ms
@@ -2794,7 +2801,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021314 s
+Time consumed by simulation events: 0.020610 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129738.0 ms
 Total simulated time: 3892140.0 ms
@@ -2806,7 +2813,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022146 s
+Time consumed by simulation events: 0.021796 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128006.0 ms
 Total simulated time: 3840180.0 ms
@@ -2818,7 +2825,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.024398 s
+Time consumed by simulation events: 0.021907 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129021.0 ms
 Total simulated time: 3870630.0 ms
@@ -2830,7 +2837,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021581 s
+Time consumed by simulation events: 0.021789 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 124842.0 ms
 Total simulated time: 3745260.0 ms
@@ -2842,7 +2849,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.024944 s
+Time consumed by simulation events: 0.022482 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 135015.0 ms
 Total simulated time: 4050450.0 ms
@@ -2854,7 +2861,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021682 s
+Time consumed by simulation events: 0.020500 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128874.0 ms
 Total simulated time: 3866220.0 ms
@@ -2866,7 +2873,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.025109 s
+Time consumed by simulation events: 0.024135 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 132391.0 ms
 Total simulated time: 3971730.0 ms
@@ -2876,9 +2883,9 @@ NETWORK INITIALIZATION
 PAYMENTS INITIALIZATION
 EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
-Time consumed by initial dijkstra executions: 1 s
+Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023283 s
+Time consumed by simulation events: 0.021994 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 130042.0 ms
 Total simulated time: 3901260.0 ms
@@ -2890,7 +2897,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023400 s
+Time consumed by simulation events: 0.031288 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 127397.0 ms
 Total simulated time: 3821910.0 ms
@@ -2902,7 +2909,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022331 s
+Time consumed by simulation events: 0.021235 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129843.0 ms
 Total simulated time: 3895290.0 ms
@@ -2914,7 +2921,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021503 s
+Time consumed by simulation events: 0.020922 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 127536.0 ms
 Total simulated time: 3826080.0 ms
@@ -2926,7 +2933,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.027875 s
+Time consumed by simulation events: 0.026545 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 130345.0 ms
 Total simulated time: 3910350.0 ms
@@ -2938,7 +2945,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.020592 s
+Time consumed by simulation events: 0.019874 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 130378.0 ms
 Total simulated time: 3911340.0 ms
@@ -2948,9 +2955,9 @@ NETWORK INITIALIZATION
 PAYMENTS INITIALIZATION
 EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
-Time consumed by initial dijkstra executions: 0 s
+Time consumed by initial dijkstra executions: 1 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023794 s
+Time consumed by simulation events: 0.021416 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 124370.0 ms
 Total simulated time: 3731100.0 ms
@@ -2962,7 +2969,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021690 s
+Time consumed by simulation events: 0.020968 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129196.0 ms
 Total simulated time: 3875880.0 ms
@@ -2974,7 +2981,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.024593 s
+Time consumed by simulation events: 0.022732 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 127391.0 ms
 Total simulated time: 3821730.0 ms
@@ -2986,7 +2993,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021534 s
+Time consumed by simulation events: 0.022413 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 131467.0 ms
 Total simulated time: 3944010.0 ms
@@ -2998,7 +3005,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.027665 s
+Time consumed by simulation events: 0.022063 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 130201.0 ms
 Total simulated time: 3906030.0 ms
@@ -3008,9 +3015,9 @@ NETWORK INITIALIZATION
 PAYMENTS INITIALIZATION
 EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
-Time consumed by initial dijkstra executions: 1 s
+Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023008 s
+Time consumed by simulation events: 0.022359 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128348.0 ms
 Total simulated time: 3850440.0 ms
@@ -3022,7 +3029,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023868 s
+Time consumed by simulation events: 0.021215 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 130329.0 ms
 Total simulated time: 3909870.0 ms
@@ -3034,7 +3041,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023617 s
+Time consumed by simulation events: 0.024336 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 127645.0 ms
 Total simulated time: 3829350.0 ms
@@ -3046,7 +3053,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021628 s
+Time consumed by simulation events: 0.027353 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128147.0 ms
 Total simulated time: 3844410.0 ms
@@ -3058,7 +3065,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021905 s
+Time consumed by simulation events: 0.021224 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 126629.0 ms
 Total simulated time: 3798870.0 ms
@@ -3070,7 +3077,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021628 s
+Time consumed by simulation events: 0.021311 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 127106.0 ms
 Total simulated time: 3813180.0 ms
@@ -3082,7 +3089,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023791 s
+Time consumed by simulation events: 0.022902 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 125617.0 ms
 Total simulated time: 3768510.0 ms
@@ -3094,7 +3101,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021782 s
+Time consumed by simulation events: 0.020977 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 126700.0 ms
 Total simulated time: 3801000.0 ms
@@ -3106,7 +3113,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.026275 s
+Time consumed by simulation events: 0.022252 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 133997.0 ms
 Total simulated time: 4019910.0 ms
@@ -3116,9 +3123,9 @@ NETWORK INITIALIZATION
 PAYMENTS INITIALIZATION
 EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
-Time consumed by initial dijkstra executions: 1 s
+Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022561 s
+Time consumed by simulation events: 0.021840 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129125.0 ms
 Total simulated time: 3873750.0 ms
@@ -3130,7 +3137,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021807 s
+Time consumed by simulation events: 0.022293 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128928.0 ms
 Total simulated time: 3867840.0 ms
@@ -3142,7 +3149,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.024532 s
+Time consumed by simulation events: 0.023469 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 130199.0 ms
 Total simulated time: 3905970.0 ms
@@ -3154,7 +3161,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021087 s
+Time consumed by simulation events: 0.020806 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 130177.0 ms
 Total simulated time: 3905310.0 ms
@@ -3166,7 +3173,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.025334 s
+Time consumed by simulation events: 0.025800 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129080.0 ms
 Total simulated time: 3872400.0 ms
@@ -3178,7 +3185,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023165 s
+Time consumed by simulation events: 0.021716 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128596.0 ms
 Total simulated time: 3857880.0 ms
@@ -3190,7 +3197,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022939 s
+Time consumed by simulation events: 0.022642 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128708.0 ms
 Total simulated time: 3861240.0 ms
@@ -3202,7 +3209,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021026 s
+Time consumed by simulation events: 0.020880 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 126741.0 ms
 Total simulated time: 3802230.0 ms
@@ -3214,7 +3221,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023793 s
+Time consumed by simulation events: 0.021997 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129399.0 ms
 Total simulated time: 3881970.0 ms
@@ -3224,9 +3231,9 @@ NETWORK INITIALIZATION
 PAYMENTS INITIALIZATION
 EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
-Time consumed by initial dijkstra executions: 1 s
+Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.020927 s
+Time consumed by simulation events: 0.020083 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 131583.0 ms
 Total simulated time: 3947490.0 ms
@@ -3238,7 +3245,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.024523 s
+Time consumed by simulation events: 0.021875 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129257.0 ms
 Total simulated time: 3877710.0 ms
@@ -3250,7 +3257,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022561 s
+Time consumed by simulation events: 0.021866 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 130944.0 ms
 Total simulated time: 3928320.0 ms
@@ -3260,9 +3267,9 @@ NETWORK INITIALIZATION
 PAYMENTS INITIALIZATION
 EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
-Time consumed by initial dijkstra executions: 0 s
+Time consumed by initial dijkstra executions: 1 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021865 s
+Time consumed by simulation events: 0.021699 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129139.0 ms
 Total simulated time: 3874170.0 ms
@@ -3274,7 +3281,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022583 s
+Time consumed by simulation events: 0.021703 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129365.0 ms
 Total simulated time: 3880950.0 ms
@@ -3286,7 +3293,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022500 s
+Time consumed by simulation events: 0.021091 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 134613.0 ms
 Total simulated time: 4038390.0 ms
@@ -3298,7 +3305,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021505 s
+Time consumed by simulation events: 0.020171 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 131069.0 ms
 Total simulated time: 3932070.0 ms
@@ -3310,7 +3317,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022154 s
+Time consumed by simulation events: 0.022332 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129066.0 ms
 Total simulated time: 3871980.0 ms
@@ -3322,7 +3329,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022991 s
+Time consumed by simulation events: 0.020508 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 126041.0 ms
 Total simulated time: 3781230.0 ms
@@ -3334,7 +3341,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023860 s
+Time consumed by simulation events: 0.024410 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 130680.0 ms
 Total simulated time: 3920400.0 ms
@@ -3344,9 +3351,9 @@ NETWORK INITIALIZATION
 PAYMENTS INITIALIZATION
 EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
-Time consumed by initial dijkstra executions: 0 s
+Time consumed by initial dijkstra executions: 1 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023987 s
+Time consumed by simulation events: 0.021237 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128905.0 ms
 Total simulated time: 3867150.0 ms
@@ -3358,7 +3365,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023825 s
+Time consumed by simulation events: 0.022357 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129671.0 ms
 Total simulated time: 3890130.0 ms
@@ -3370,7 +3377,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022905 s
+Time consumed by simulation events: 0.021010 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 127234.0 ms
 Total simulated time: 3817020.0 ms
@@ -3382,7 +3389,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021707 s
+Time consumed by simulation events: 0.022242 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128011.0 ms
 Total simulated time: 3840330.0 ms
@@ -3394,7 +3401,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.024003 s
+Time consumed by simulation events: 0.021506 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129151.0 ms
 Total simulated time: 3874530.0 ms
@@ -3406,7 +3413,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022456 s
+Time consumed by simulation events: 0.021576 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 124339.0 ms
 Total simulated time: 3730170.0 ms
@@ -3418,7 +3425,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.020446 s
+Time consumed by simulation events: 0.019899 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129852.0 ms
 Total simulated time: 3895560.0 ms
@@ -3430,7 +3437,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021852 s
+Time consumed by simulation events: 0.020441 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 126174.0 ms
 Total simulated time: 3785220.0 ms
@@ -3442,7 +3449,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021893 s
+Time consumed by simulation events: 0.022643 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 127513.0 ms
 Total simulated time: 3825390.0 ms
@@ -3454,7 +3461,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.027057 s
+Time consumed by simulation events: 0.024919 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 125417.0 ms
 Total simulated time: 3762510.0 ms
@@ -3464,9 +3471,9 @@ NETWORK INITIALIZATION
 PAYMENTS INITIALIZATION
 EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
-Time consumed by initial dijkstra executions: 1 s
+Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022953 s
+Time consumed by simulation events: 0.021869 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128389.0 ms
 Total simulated time: 3851670.0 ms
@@ -3478,7 +3485,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021896 s
+Time consumed by simulation events: 0.021569 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 130532.0 ms
 Total simulated time: 3915960.0 ms
@@ -3490,7 +3497,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023374 s
+Time consumed by simulation events: 0.023619 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129503.0 ms
 Total simulated time: 3885090.0 ms
@@ -3502,7 +3509,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023664 s
+Time consumed by simulation events: 0.022829 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 127521.0 ms
 Total simulated time: 3825630.0 ms
@@ -3514,7 +3521,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022035 s
+Time consumed by simulation events: 0.020742 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 125411.0 ms
 Total simulated time: 3762330.0 ms
@@ -3526,7 +3533,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021851 s
+Time consumed by simulation events: 0.021425 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 133991.0 ms
 Total simulated time: 4019730.0 ms
@@ -3538,7 +3545,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.027919 s
+Time consumed by simulation events: 0.022062 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129645.0 ms
 Total simulated time: 3889350.0 ms
@@ -3550,7 +3557,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022482 s
+Time consumed by simulation events: 0.023649 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129919.0 ms
 Total simulated time: 3897570.0 ms
@@ -3562,7 +3569,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022660 s
+Time consumed by simulation events: 0.022180 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128183.0 ms
 Total simulated time: 3845490.0 ms
@@ -3572,9 +3579,9 @@ NETWORK INITIALIZATION
 PAYMENTS INITIALIZATION
 EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
-Time consumed by initial dijkstra executions: 0 s
+Time consumed by initial dijkstra executions: 1 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022271 s
+Time consumed by simulation events: 0.021186 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129001.0 ms
 Total simulated time: 3870030.0 ms
@@ -3586,7 +3593,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022644 s
+Time consumed by simulation events: 0.021003 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 130062.0 ms
 Total simulated time: 3901860.0 ms
@@ -3598,7 +3605,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021600 s
+Time consumed by simulation events: 0.021024 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 126997.0 ms
 Total simulated time: 3809910.0 ms
@@ -3610,7 +3617,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.024797 s
+Time consumed by simulation events: 0.022193 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129695.0 ms
 Total simulated time: 3890850.0 ms
@@ -3622,7 +3629,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021766 s
+Time consumed by simulation events: 0.022143 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 126259.0 ms
 Total simulated time: 3787770.0 ms
@@ -3634,7 +3641,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021727 s
+Time consumed by simulation events: 0.021114 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 125440.0 ms
 Total simulated time: 3763200.0 ms
@@ -3646,7 +3653,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.025525 s
+Time consumed by simulation events: 0.023628 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129603.0 ms
 Total simulated time: 3888090.0 ms
@@ -3656,9 +3663,9 @@ NETWORK INITIALIZATION
 PAYMENTS INITIALIZATION
 EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
-Time consumed by initial dijkstra executions: 0 s
+Time consumed by initial dijkstra executions: 1 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.020407 s
+Time consumed by simulation events: 0.019952 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 132659.0 ms
 Total simulated time: 3979770.0 ms
@@ -3670,7 +3677,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.024556 s
+Time consumed by simulation events: 0.022968 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 130834.0 ms
 Total simulated time: 3925020.0 ms
@@ -3682,7 +3689,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023975 s
+Time consumed by simulation events: 0.022845 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 132232.0 ms
 Total simulated time: 3966960.0 ms
@@ -3694,7 +3701,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.025957 s
+Time consumed by simulation events: 0.023258 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128522.0 ms
 Total simulated time: 3855660.0 ms
@@ -3704,9 +3711,9 @@ NETWORK INITIALIZATION
 PAYMENTS INITIALIZATION
 EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
-Time consumed by initial dijkstra executions: 1 s
+Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.027022 s
+Time consumed by simulation events: 0.033511 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128704.0 ms
 Total simulated time: 3861120.0 ms
@@ -3718,7 +3725,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.031725 s
+Time consumed by simulation events: 0.041940 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 127199.0 ms
 Total simulated time: 3815970.0 ms
@@ -3728,9 +3735,9 @@ NETWORK INITIALIZATION
 PAYMENTS INITIALIZATION
 EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
-Time consumed by initial dijkstra executions: 1 s
+Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023831 s
+Time consumed by simulation events: 0.028761 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128495.0 ms
 Total simulated time: 3854850.0 ms
@@ -3740,9 +3747,9 @@ NETWORK INITIALIZATION
 PAYMENTS INITIALIZATION
 EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
-Time consumed by initial dijkstra executions: 0 s
+Time consumed by initial dijkstra executions: 1 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022486 s
+Time consumed by simulation events: 0.032983 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129926.0 ms
 Total simulated time: 3897780.0 ms
@@ -3752,9 +3759,9 @@ NETWORK INITIALIZATION
 PAYMENTS INITIALIZATION
 EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
-Time consumed by initial dijkstra executions: 1 s
+Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023504 s
+Time consumed by simulation events: 0.023698 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129207.0 ms
 Total simulated time: 3876210.0 ms
@@ -3766,7 +3773,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023169 s
+Time consumed by simulation events: 0.022765 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 133409.0 ms
 Total simulated time: 4002270.0 ms
@@ -3778,7 +3785,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023371 s
+Time consumed by simulation events: 0.022700 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 131663.0 ms
 Total simulated time: 3949890.0 ms
@@ -3790,7 +3797,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.020177 s
+Time consumed by simulation events: 0.019620 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129546.0 ms
 Total simulated time: 3886380.0 ms
@@ -3802,7 +3809,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022229 s
+Time consumed by simulation events: 0.021842 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 130697.0 ms
 Total simulated time: 3920910.0 ms
@@ -3814,7 +3821,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022593 s
+Time consumed by simulation events: 0.022268 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 125381.0 ms
 Total simulated time: 3761430.0 ms
@@ -3824,9 +3831,9 @@ NETWORK INITIALIZATION
 PAYMENTS INITIALIZATION
 EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
-Time consumed by initial dijkstra executions: 0 s
+Time consumed by initial dijkstra executions: 1 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021516 s
+Time consumed by simulation events: 0.020699 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 130527.0 ms
 Total simulated time: 3915810.0 ms
@@ -3838,7 +3845,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022705 s
+Time consumed by simulation events: 0.021647 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128624.0 ms
 Total simulated time: 3858720.0 ms
@@ -3850,7 +3857,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022159 s
+Time consumed by simulation events: 0.020850 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128882.0 ms
 Total simulated time: 3866460.0 ms
@@ -3860,9 +3867,9 @@ NETWORK INITIALIZATION
 PAYMENTS INITIALIZATION
 EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
-Time consumed by initial dijkstra executions: 1 s
+Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.019930 s
+Time consumed by simulation events: 0.023624 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129206.0 ms
 Total simulated time: 3876180.0 ms
@@ -3874,7 +3881,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.026026 s
+Time consumed by simulation events: 0.021195 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 127158.0 ms
 Total simulated time: 3814740.0 ms
@@ -3886,7 +3893,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022480 s
+Time consumed by simulation events: 0.022193 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 125287.0 ms
 Total simulated time: 3758610.0 ms
@@ -3898,7 +3905,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.027107 s
+Time consumed by simulation events: 0.021699 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 126054.0 ms
 Total simulated time: 3781620.0 ms
@@ -3910,7 +3917,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023248 s
+Time consumed by simulation events: 0.021337 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 127070.0 ms
 Total simulated time: 3812100.0 ms
@@ -3922,7 +3929,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023304 s
+Time consumed by simulation events: 0.022573 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 125644.0 ms
 Total simulated time: 3769320.0 ms
@@ -3934,7 +3941,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023198 s
+Time consumed by simulation events: 0.025713 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 132825.0 ms
 Total simulated time: 3984750.0 ms
@@ -3946,7 +3953,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.020828 s
+Time consumed by simulation events: 0.019902 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 125830.0 ms
 Total simulated time: 3774900.0 ms
@@ -3958,7 +3965,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021230 s
+Time consumed by simulation events: 0.019579 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129367.0 ms
 Total simulated time: 3881010.0 ms
@@ -3970,7 +3977,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022019 s
+Time consumed by simulation events: 0.021309 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129400.0 ms
 Total simulated time: 3882000.0 ms
@@ -3982,7 +3989,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021986 s
+Time consumed by simulation events: 0.022633 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 133458.0 ms
 Total simulated time: 4003740.0 ms
@@ -3992,9 +3999,9 @@ NETWORK INITIALIZATION
 PAYMENTS INITIALIZATION
 EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
-Time consumed by initial dijkstra executions: 1 s
+Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.024332 s
+Time consumed by simulation events: 0.021260 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 131655.0 ms
 Total simulated time: 3949650.0 ms
@@ -4006,7 +4013,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021739 s
+Time consumed by simulation events: 0.021016 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129029.0 ms
 Total simulated time: 3870870.0 ms
@@ -4018,7 +4025,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022028 s
+Time consumed by simulation events: 0.021246 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128978.0 ms
 Total simulated time: 3869340.0 ms
@@ -4030,7 +4037,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023091 s
+Time consumed by simulation events: 0.023518 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 127050.0 ms
 Total simulated time: 3811500.0 ms
@@ -4042,7 +4049,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021148 s
+Time consumed by simulation events: 0.022480 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 130365.0 ms
 Total simulated time: 3910950.0 ms
@@ -4052,9 +4059,9 @@ NETWORK INITIALIZATION
 PAYMENTS INITIALIZATION
 EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
-Time consumed by initial dijkstra executions: 0 s
+Time consumed by initial dijkstra executions: 1 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.024084 s
+Time consumed by simulation events: 0.020797 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128769.0 ms
 Total simulated time: 3863070.0 ms
@@ -4066,7 +4073,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021702 s
+Time consumed by simulation events: 0.021072 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 127337.0 ms
 Total simulated time: 3820110.0 ms
@@ -4078,7 +4085,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022730 s
+Time consumed by simulation events: 0.019977 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 130424.0 ms
 Total simulated time: 3912720.0 ms
@@ -4090,7 +4097,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022355 s
+Time consumed by simulation events: 0.022781 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128461.0 ms
 Total simulated time: 3853830.0 ms
@@ -4100,9 +4107,9 @@ NETWORK INITIALIZATION
 PAYMENTS INITIALIZATION
 EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
-Time consumed by initial dijkstra executions: 1 s
+Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021688 s
+Time consumed by simulation events: 0.021415 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 127628.0 ms
 Total simulated time: 3828840.0 ms
@@ -4114,7 +4121,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022117 s
+Time consumed by simulation events: 0.020628 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129036.0 ms
 Total simulated time: 3871080.0 ms
@@ -4126,7 +4133,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.024447 s
+Time consumed by simulation events: 0.021094 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128633.0 ms
 Total simulated time: 3858990.0 ms
@@ -4136,9 +4143,9 @@ NETWORK INITIALIZATION
 PAYMENTS INITIALIZATION
 EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
-Time consumed by initial dijkstra executions: 0 s
+Time consumed by initial dijkstra executions: 1 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023885 s
+Time consumed by simulation events: 0.022752 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128800.0 ms
 Total simulated time: 3864000.0 ms
@@ -4150,7 +4157,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021465 s
+Time consumed by simulation events: 0.022334 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128967.0 ms
 Total simulated time: 3869010.0 ms
@@ -4162,7 +4169,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023005 s
+Time consumed by simulation events: 0.022028 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 126235.0 ms
 Total simulated time: 3787050.0 ms
@@ -4174,7 +4181,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022226 s
+Time consumed by simulation events: 0.021530 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 126616.0 ms
 Total simulated time: 3798480.0 ms
@@ -4186,7 +4193,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023924 s
+Time consumed by simulation events: 0.021339 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128521.0 ms
 Total simulated time: 3855630.0 ms
@@ -4198,7 +4205,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022006 s
+Time consumed by simulation events: 0.020580 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 126775.0 ms
 Total simulated time: 3803250.0 ms
@@ -4210,7 +4217,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.024405 s
+Time consumed by simulation events: 0.022297 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 133508.0 ms
 Total simulated time: 4005240.0 ms
@@ -4222,7 +4229,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.020407 s
+Time consumed by simulation events: 0.021115 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129979.0 ms
 Total simulated time: 3899370.0 ms
@@ -4234,7 +4241,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021525 s
+Time consumed by simulation events: 0.020446 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128117.0 ms
 Total simulated time: 3843510.0 ms
@@ -4246,7 +4253,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.024431 s
+Time consumed by simulation events: 0.023476 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128294.0 ms
 Total simulated time: 3848820.0 ms
@@ -4258,7 +4265,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022991 s
+Time consumed by simulation events: 0.021403 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128910.0 ms
 Total simulated time: 3867300.0 ms
@@ -4270,7 +4277,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.025859 s
+Time consumed by simulation events: 0.022906 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 126943.0 ms
 Total simulated time: 3808290.0 ms
@@ -4282,7 +4289,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023648 s
+Time consumed by simulation events: 0.024238 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 127981.0 ms
 Total simulated time: 3839430.0 ms
@@ -4294,7 +4301,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023147 s
+Time consumed by simulation events: 0.021840 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128998.0 ms
 Total simulated time: 3869940.0 ms
@@ -4306,7 +4313,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023881 s
+Time consumed by simulation events: 0.022732 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129644.0 ms
 Total simulated time: 3889320.0 ms
@@ -4318,7 +4325,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.024916 s
+Time consumed by simulation events: 0.023908 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 127305.0 ms
 Total simulated time: 3819150.0 ms
@@ -4330,7 +4337,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022912 s
+Time consumed by simulation events: 0.022602 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 126642.0 ms
 Total simulated time: 3799260.0 ms
@@ -4340,9 +4347,9 @@ NETWORK INITIALIZATION
 PAYMENTS INITIALIZATION
 EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
-Time consumed by initial dijkstra executions: 1 s
+Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023771 s
+Time consumed by simulation events: 0.021534 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 131570.0 ms
 Total simulated time: 3947100.0 ms
@@ -4354,7 +4361,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022668 s
+Time consumed by simulation events: 0.022041 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 133814.0 ms
 Total simulated time: 4014420.0 ms
@@ -4364,9 +4371,9 @@ NETWORK INITIALIZATION
 PAYMENTS INITIALIZATION
 EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
-Time consumed by initial dijkstra executions: 0 s
+Time consumed by initial dijkstra executions: 1 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021911 s
+Time consumed by simulation events: 0.021370 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128445.0 ms
 Total simulated time: 3853350.0 ms
@@ -4378,7 +4385,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022079 s
+Time consumed by simulation events: 0.022218 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 134854.0 ms
 Total simulated time: 4045620.0 ms
@@ -4390,7 +4397,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.025428 s
+Time consumed by simulation events: 0.022340 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 131324.0 ms
 Total simulated time: 3939720.0 ms
@@ -4402,7 +4409,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023633 s
+Time consumed by simulation events: 0.023101 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 127179.0 ms
 Total simulated time: 3815370.0 ms
@@ -4414,7 +4421,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021276 s
+Time consumed by simulation events: 0.020390 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 132143.0 ms
 Total simulated time: 3964290.0 ms
@@ -4426,7 +4433,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023905 s
+Time consumed by simulation events: 0.021309 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129082.0 ms
 Total simulated time: 3872460.0 ms
@@ -4438,7 +4445,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021182 s
+Time consumed by simulation events: 0.022399 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 132187.0 ms
 Total simulated time: 3965610.0 ms
@@ -4450,7 +4457,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 1 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.025416 s
+Time consumed by simulation events: 0.023622 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 127369.0 ms
 Total simulated time: 3821070.0 ms
@@ -4462,7 +4469,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022814 s
+Time consumed by simulation events: 0.022630 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 131558.0 ms
 Total simulated time: 3946740.0 ms
@@ -4474,7 +4481,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.024484 s
+Time consumed by simulation events: 0.022043 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128511.0 ms
 Total simulated time: 3855330.0 ms
@@ -4486,7 +4493,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022858 s
+Time consumed by simulation events: 0.020118 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 132125.0 ms
 Total simulated time: 3963750.0 ms
@@ -4498,7 +4505,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.027640 s
+Time consumed by simulation events: 0.022141 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129091.0 ms
 Total simulated time: 3872730.0 ms
@@ -4510,7 +4517,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.024391 s
+Time consumed by simulation events: 0.021682 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 131849.0 ms
 Total simulated time: 3955470.0 ms
@@ -4522,7 +4529,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022214 s
+Time consumed by simulation events: 0.021186 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128811.0 ms
 Total simulated time: 3864330.0 ms
@@ -4534,7 +4541,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021441 s
+Time consumed by simulation events: 0.020533 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129804.0 ms
 Total simulated time: 3894120.0 ms
@@ -4546,7 +4553,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022705 s
+Time consumed by simulation events: 0.023180 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 127998.0 ms
 Total simulated time: 3839940.0 ms
@@ -4558,7 +4565,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021118 s
+Time consumed by simulation events: 0.020988 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128463.0 ms
 Total simulated time: 3853890.0 ms
@@ -4570,7 +4577,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023737 s
+Time consumed by simulation events: 0.021494 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 126727.0 ms
 Total simulated time: 3801810.0 ms
@@ -4580,9 +4587,9 @@ NETWORK INITIALIZATION
 PAYMENTS INITIALIZATION
 EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
-Time consumed by initial dijkstra executions: 1 s
+Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023514 s
+Time consumed by simulation events: 0.023814 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128929.0 ms
 Total simulated time: 3867870.0 ms
@@ -4594,7 +4601,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022749 s
+Time consumed by simulation events: 0.021805 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129416.0 ms
 Total simulated time: 3882480.0 ms
@@ -4606,7 +4613,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022853 s
+Time consumed by simulation events: 0.021880 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 127725.0 ms
 Total simulated time: 3831750.0 ms
@@ -4618,7 +4625,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.025464 s
+Time consumed by simulation events: 0.020837 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 130838.0 ms
 Total simulated time: 3925140.0 ms
@@ -4630,7 +4637,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023776 s
+Time consumed by simulation events: 0.020943 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128403.0 ms
 Total simulated time: 3852090.0 ms
@@ -4642,7 +4649,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022124 s
+Time consumed by simulation events: 0.025834 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 126586.0 ms
 Total simulated time: 3797580.0 ms
@@ -4654,7 +4661,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021896 s
+Time consumed by simulation events: 0.021508 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 126429.0 ms
 Total simulated time: 3792870.0 ms
@@ -4666,7 +4673,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023690 s
+Time consumed by simulation events: 0.022459 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129206.0 ms
 Total simulated time: 3876180.0 ms
@@ -4678,7 +4685,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.024078 s
+Time consumed by simulation events: 0.022692 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 127614.0 ms
 Total simulated time: 3828420.0 ms
@@ -4690,7 +4697,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.027105 s
+Time consumed by simulation events: 0.022871 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129241.0 ms
 Total simulated time: 3877230.0 ms
@@ -4702,7 +4709,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022047 s
+Time consumed by simulation events: 0.021982 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129081.0 ms
 Total simulated time: 3872430.0 ms
@@ -4712,9 +4719,9 @@ NETWORK INITIALIZATION
 PAYMENTS INITIALIZATION
 EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
-Time consumed by initial dijkstra executions: 1 s
+Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023311 s
+Time consumed by simulation events: 0.021620 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 126579.0 ms
 Total simulated time: 3797370.0 ms
@@ -4726,7 +4733,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021847 s
+Time consumed by simulation events: 0.020768 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128623.0 ms
 Total simulated time: 3858690.0 ms
@@ -4738,7 +4745,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.019216 s
+Time consumed by simulation events: 0.018409 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129647.0 ms
 Total simulated time: 3889410.0 ms
@@ -4750,7 +4757,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021997 s
+Time consumed by simulation events: 0.020920 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 127734.0 ms
 Total simulated time: 3832020.0 ms
@@ -4762,7 +4769,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022733 s
+Time consumed by simulation events: 0.022123 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 130762.0 ms
 Total simulated time: 3922860.0 ms
@@ -4774,7 +4781,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.024158 s
+Time consumed by simulation events: 0.019826 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129069.0 ms
 Total simulated time: 3872070.0 ms
@@ -4786,7 +4793,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021162 s
+Time consumed by simulation events: 0.021511 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129431.0 ms
 Total simulated time: 3882930.0 ms
@@ -4798,7 +4805,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023983 s
+Time consumed by simulation events: 0.021582 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128546.0 ms
 Total simulated time: 3856380.0 ms
@@ -4810,7 +4817,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.020655 s
+Time consumed by simulation events: 0.019634 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128005.0 ms
 Total simulated time: 3840150.0 ms
@@ -4822,7 +4829,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.025676 s
+Time consumed by simulation events: 0.028080 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 126852.0 ms
 Total simulated time: 3805560.0 ms
@@ -4834,7 +4841,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022418 s
+Time consumed by simulation events: 0.021556 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 130012.0 ms
 Total simulated time: 3900360.0 ms
@@ -4844,9 +4851,9 @@ NETWORK INITIALIZATION
 PAYMENTS INITIALIZATION
 EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
-Time consumed by initial dijkstra executions: 0 s
+Time consumed by initial dijkstra executions: 1 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022888 s
+Time consumed by simulation events: 0.021566 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129535.0 ms
 Total simulated time: 3886050.0 ms
@@ -4858,7 +4865,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022469 s
+Time consumed by simulation events: 0.021079 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 134813.0 ms
 Total simulated time: 4044390.0 ms
@@ -4870,7 +4877,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.025181 s
+Time consumed by simulation events: 0.024609 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 132901.0 ms
 Total simulated time: 3987030.0 ms
@@ -4882,7 +4889,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022862 s
+Time consumed by simulation events: 0.021647 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128884.0 ms
 Total simulated time: 3866520.0 ms
@@ -4894,7 +4901,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022638 s
+Time consumed by simulation events: 0.021805 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 131051.0 ms
 Total simulated time: 3931530.0 ms
@@ -4906,7 +4913,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021856 s
+Time consumed by simulation events: 0.021533 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 131402.0 ms
 Total simulated time: 3942060.0 ms
@@ -4918,7 +4925,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021327 s
+Time consumed by simulation events: 0.020100 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 125914.0 ms
 Total simulated time: 3777420.0 ms
@@ -4930,7 +4937,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.024628 s
+Time consumed by simulation events: 0.025637 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 132360.0 ms
 Total simulated time: 3970800.0 ms
@@ -4942,7 +4949,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022955 s
+Time consumed by simulation events: 0.021501 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 127895.0 ms
 Total simulated time: 3836850.0 ms
@@ -4952,9 +4959,9 @@ NETWORK INITIALIZATION
 PAYMENTS INITIALIZATION
 EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
-Time consumed by initial dijkstra executions: 1 s
+Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023805 s
+Time consumed by simulation events: 0.022015 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 126317.0 ms
 Total simulated time: 3789510.0 ms
@@ -4966,7 +4973,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022347 s
+Time consumed by simulation events: 0.021756 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 130246.0 ms
 Total simulated time: 3907380.0 ms
@@ -4978,7 +4985,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.024838 s
+Time consumed by simulation events: 0.022187 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 126292.0 ms
 Total simulated time: 3788760.0 ms
@@ -4990,7 +4997,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021603 s
+Time consumed by simulation events: 0.024601 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128560.0 ms
 Total simulated time: 3856800.0 ms
@@ -5002,7 +5009,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.026197 s
+Time consumed by simulation events: 0.021812 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128667.0 ms
 Total simulated time: 3860010.0 ms
@@ -5014,7 +5021,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023251 s
+Time consumed by simulation events: 0.022269 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129840.0 ms
 Total simulated time: 3895200.0 ms
@@ -5026,7 +5033,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023112 s
+Time consumed by simulation events: 0.021486 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 131652.0 ms
 Total simulated time: 3949560.0 ms
@@ -5038,22 +5045,15 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021768 s
+Time consumed by simulation events: 0.023163 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128509.0 ms
 Total simulated time: 3855270.0 ms
 SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
 ----------------------------data-number-921-generated----------------------------------
-NETWORK INITIALIZATION
-PAYMENTS INITIALIZATION
-EVENTS INITIALIZATION
-INITIAL DIJKSTRA THREADS EXECUTION
-Time consumed by initial dijkstra executions: 0 s
-EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.024497 s
 COMPUTE SIMULATION OUTPUT STATS
-Batch length: 130476.0 ms
-Total simulated time: 3914280.0 ms
+Batch length: 128509.0 ms
+Total simulated time: 3855270.0 ms
 SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
 ----------------------------data-number-922-generated----------------------------------
 NETWORK INITIALIZATION
@@ -5062,7 +5062,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022374 s
+Time consumed by simulation events: 0.038527 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 133022.0 ms
 Total simulated time: 3990660.0 ms
@@ -5074,7 +5074,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022523 s
+Time consumed by simulation events: 0.038540 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 127905.0 ms
 Total simulated time: 3837150.0 ms
@@ -5084,9 +5084,9 @@ NETWORK INITIALIZATION
 PAYMENTS INITIALIZATION
 EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
-Time consumed by initial dijkstra executions: 1 s
+Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023450 s
+Time consumed by simulation events: 0.030745 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 126930.0 ms
 Total simulated time: 3807900.0 ms
@@ -5096,9 +5096,9 @@ NETWORK INITIALIZATION
 PAYMENTS INITIALIZATION
 EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
-Time consumed by initial dijkstra executions: 0 s
+Time consumed by initial dijkstra executions: 1 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.024799 s
+Time consumed by simulation events: 0.027677 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 126847.0 ms
 Total simulated time: 3805410.0 ms
@@ -5110,7 +5110,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021398 s
+Time consumed by simulation events: 0.021456 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128650.0 ms
 Total simulated time: 3859500.0 ms
@@ -5122,7 +5122,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022773 s
+Time consumed by simulation events: 0.021864 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129311.0 ms
 Total simulated time: 3879330.0 ms
@@ -5134,7 +5134,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023301 s
+Time consumed by simulation events: 0.021038 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 127382.0 ms
 Total simulated time: 3821460.0 ms
@@ -5146,7 +5146,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.025359 s
+Time consumed by simulation events: 0.021679 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128664.0 ms
 Total simulated time: 3859920.0 ms
@@ -5158,7 +5158,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022139 s
+Time consumed by simulation events: 0.022371 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129837.0 ms
 Total simulated time: 3895110.0 ms
@@ -5170,7 +5170,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021967 s
+Time consumed by simulation events: 0.020837 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128783.0 ms
 Total simulated time: 3863490.0 ms
@@ -5180,9 +5180,9 @@ NETWORK INITIALIZATION
 PAYMENTS INITIALIZATION
 EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
-Time consumed by initial dijkstra executions: 0 s
+Time consumed by initial dijkstra executions: 1 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021939 s
+Time consumed by simulation events: 0.021306 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128353.0 ms
 Total simulated time: 3850590.0 ms
@@ -5194,7 +5194,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.024723 s
+Time consumed by simulation events: 0.021212 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128315.0 ms
 Total simulated time: 3849450.0 ms
@@ -5206,7 +5206,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023750 s
+Time consumed by simulation events: 0.023794 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129434.0 ms
 Total simulated time: 3883020.0 ms
@@ -5216,9 +5216,9 @@ NETWORK INITIALIZATION
 PAYMENTS INITIALIZATION
 EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
-Time consumed by initial dijkstra executions: 1 s
+Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.026441 s
+Time consumed by simulation events: 0.023427 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 127144.0 ms
 Total simulated time: 3814320.0 ms
@@ -5230,7 +5230,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021995 s
+Time consumed by simulation events: 0.020947 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 126745.0 ms
 Total simulated time: 3802350.0 ms
@@ -5242,7 +5242,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.027381 s
+Time consumed by simulation events: 0.023641 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 127537.0 ms
 Total simulated time: 3826110.0 ms
@@ -5254,7 +5254,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022111 s
+Time consumed by simulation events: 0.021299 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129755.0 ms
 Total simulated time: 3892650.0 ms
@@ -5266,7 +5266,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023792 s
+Time consumed by simulation events: 0.020663 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 130801.0 ms
 Total simulated time: 3924030.0 ms
@@ -5278,7 +5278,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022390 s
+Time consumed by simulation events: 0.025280 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129530.0 ms
 Total simulated time: 3885900.0 ms
@@ -5290,7 +5290,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021403 s
+Time consumed by simulation events: 0.020765 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129536.0 ms
 Total simulated time: 3886080.0 ms
@@ -5302,7 +5302,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021438 s
+Time consumed by simulation events: 0.020964 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 127986.0 ms
 Total simulated time: 3839580.0 ms
@@ -5314,7 +5314,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023787 s
+Time consumed by simulation events: 0.021349 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 134564.0 ms
 Total simulated time: 4036920.0 ms
@@ -5324,9 +5324,9 @@ NETWORK INITIALIZATION
 PAYMENTS INITIALIZATION
 EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
-Time consumed by initial dijkstra executions: 1 s
+Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022785 s
+Time consumed by simulation events: 0.022174 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 127951.0 ms
 Total simulated time: 3838530.0 ms
@@ -5338,7 +5338,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022680 s
+Time consumed by simulation events: 0.022171 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 130549.0 ms
 Total simulated time: 3916470.0 ms
@@ -5350,7 +5350,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.025447 s
+Time consumed by simulation events: 0.022511 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 130109.0 ms
 Total simulated time: 3903270.0 ms
@@ -5362,7 +5362,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022589 s
+Time consumed by simulation events: 0.022064 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 125806.0 ms
 Total simulated time: 3774180.0 ms
@@ -5374,7 +5374,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022302 s
+Time consumed by simulation events: 0.020377 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 130950.0 ms
 Total simulated time: 3928500.0 ms
@@ -5386,7 +5386,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021918 s
+Time consumed by simulation events: 0.023940 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 126478.0 ms
 Total simulated time: 3794340.0 ms
@@ -5398,7 +5398,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.024874 s
+Time consumed by simulation events: 0.021975 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 127262.0 ms
 Total simulated time: 3817860.0 ms
@@ -5408,9 +5408,9 @@ NETWORK INITIALIZATION
 PAYMENTS INITIALIZATION
 EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
-Time consumed by initial dijkstra executions: 0 s
+Time consumed by initial dijkstra executions: 1 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021942 s
+Time consumed by simulation events: 0.020591 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 130368.0 ms
 Total simulated time: 3911040.0 ms
@@ -5422,7 +5422,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023124 s
+Time consumed by simulation events: 0.021984 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128734.0 ms
 Total simulated time: 3862020.0 ms
@@ -5434,7 +5434,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022959 s
+Time consumed by simulation events: 0.022154 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 130901.0 ms
 Total simulated time: 3927030.0 ms
@@ -5446,7 +5446,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021653 s
+Time consumed by simulation events: 0.023528 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 126159.0 ms
 Total simulated time: 3784770.0 ms
@@ -5458,7 +5458,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022777 s
+Time consumed by simulation events: 0.020723 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 125897.0 ms
 Total simulated time: 3776910.0 ms
@@ -5470,7 +5470,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022309 s
+Time consumed by simulation events: 0.021618 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129152.0 ms
 Total simulated time: 3874560.0 ms
@@ -5482,7 +5482,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.024767 s
+Time consumed by simulation events: 0.023958 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 130940.0 ms
 Total simulated time: 3928200.0 ms
@@ -5492,9 +5492,9 @@ NETWORK INITIALIZATION
 PAYMENTS INITIALIZATION
 EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
-Time consumed by initial dijkstra executions: 0 s
+Time consumed by initial dijkstra executions: 1 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023048 s
+Time consumed by simulation events: 0.032968 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 130083.0 ms
 Total simulated time: 3902490.0 ms
@@ -5506,7 +5506,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022554 s
+Time consumed by simulation events: 0.021824 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 127409.0 ms
 Total simulated time: 3822270.0 ms
@@ -5518,7 +5518,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022102 s
+Time consumed by simulation events: 0.021480 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 126708.0 ms
 Total simulated time: 3801240.0 ms
@@ -5530,7 +5530,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.027789 s
+Time consumed by simulation events: 0.022738 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 127791.0 ms
 Total simulated time: 3833730.0 ms
@@ -5542,7 +5542,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021430 s
+Time consumed by simulation events: 0.020590 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 130414.0 ms
 Total simulated time: 3912420.0 ms
@@ -5554,7 +5554,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.024438 s
+Time consumed by simulation events: 0.025466 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129564.0 ms
 Total simulated time: 3886920.0 ms
@@ -5566,7 +5566,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.037617 s
+Time consumed by simulation events: 0.022090 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 130202.0 ms
 Total simulated time: 3906060.0 ms
@@ -5576,9 +5576,9 @@ NETWORK INITIALIZATION
 PAYMENTS INITIALIZATION
 EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
-Time consumed by initial dijkstra executions: 0 s
+Time consumed by initial dijkstra executions: 1 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.026399 s
+Time consumed by simulation events: 0.022570 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128452.0 ms
 Total simulated time: 3853560.0 ms
@@ -5588,9 +5588,9 @@ NETWORK INITIALIZATION
 PAYMENTS INITIALIZATION
 EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
-Time consumed by initial dijkstra executions: 1 s
+Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023012 s
+Time consumed by simulation events: 0.021428 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 127544.0 ms
 Total simulated time: 3826320.0 ms
@@ -5602,7 +5602,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022685 s
+Time consumed by simulation events: 0.024431 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 126610.0 ms
 Total simulated time: 3798300.0 ms
@@ -5614,7 +5614,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023767 s
+Time consumed by simulation events: 0.021485 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 126924.0 ms
 Total simulated time: 3807720.0 ms
@@ -5626,7 +5626,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021547 s
+Time consumed by simulation events: 0.021097 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128749.0 ms
 Total simulated time: 3862470.0 ms
@@ -5638,7 +5638,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022638 s
+Time consumed by simulation events: 0.020763 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128721.0 ms
 Total simulated time: 3861630.0 ms
@@ -5650,7 +5650,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023256 s
+Time consumed by simulation events: 0.022224 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 133716.0 ms
 Total simulated time: 4011480.0 ms
@@ -5662,7 +5662,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.024155 s
+Time consumed by simulation events: 0.022424 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 126226.0 ms
 Total simulated time: 3786780.0 ms
@@ -5674,7 +5674,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022814 s
+Time consumed by simulation events: 0.025262 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 130273.0 ms
 Total simulated time: 3908190.0 ms
@@ -5686,7 +5686,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.027011 s
+Time consumed by simulation events: 0.021909 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 131063.0 ms
 Total simulated time: 3931890.0 ms
@@ -5698,7 +5698,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021127 s
+Time consumed by simulation events: 0.020436 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128080.0 ms
 Total simulated time: 3842400.0 ms
@@ -5710,7 +5710,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023391 s
+Time consumed by simulation events: 0.024951 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 124837.0 ms
 Total simulated time: 3745110.0 ms
@@ -5722,7 +5722,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.020817 s
+Time consumed by simulation events: 0.019900 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128318.0 ms
 Total simulated time: 3849540.0 ms
@@ -5734,7 +5734,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.024414 s
+Time consumed by simulation events: 0.022163 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 130639.0 ms
 Total simulated time: 3919170.0 ms
@@ -5746,7 +5746,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022381 s
+Time consumed by simulation events: 0.021726 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 130546.0 ms
 Total simulated time: 3916380.0 ms
@@ -5758,7 +5758,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023501 s
+Time consumed by simulation events: 0.020713 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 131823.0 ms
 Total simulated time: 3954690.0 ms
@@ -5770,7 +5770,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023008 s
+Time consumed by simulation events: 0.024451 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 131558.0 ms
 Total simulated time: 3946740.0 ms
@@ -5782,7 +5782,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021726 s
+Time consumed by simulation events: 0.020992 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 125989.0 ms
 Total simulated time: 3779670.0 ms
@@ -5794,7 +5794,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023010 s
+Time consumed by simulation events: 0.021292 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129768.0 ms
 Total simulated time: 3893040.0 ms
@@ -5806,7 +5806,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.023691 s
+Time consumed by simulation events: 0.020264 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 132866.0 ms
 Total simulated time: 3985980.0 ms
@@ -5818,7 +5818,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022637 s
+Time consumed by simulation events: 0.023292 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128958.0 ms
 Total simulated time: 3868740.0 ms
@@ -5828,9 +5828,9 @@ NETWORK INITIALIZATION
 PAYMENTS INITIALIZATION
 EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
-Time consumed by initial dijkstra executions: 1 s
+Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.027230 s
+Time consumed by simulation events: 0.023873 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 128365.0 ms
 Total simulated time: 3850950.0 ms
@@ -5842,7 +5842,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.020627 s
+Time consumed by simulation events: 0.020559 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 130356.0 ms
 Total simulated time: 3910680.0 ms
@@ -5854,7 +5854,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022948 s
+Time consumed by simulation events: 0.022500 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129769.0 ms
 Total simulated time: 3893070.0 ms
@@ -5866,7 +5866,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022580 s
+Time consumed by simulation events: 0.020770 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 131909.0 ms
 Total simulated time: 3957270.0 ms
@@ -5878,7 +5878,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022900 s
+Time consumed by simulation events: 0.027031 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 130140.0 ms
 Total simulated time: 3904200.0 ms
@@ -5888,9 +5888,9 @@ NETWORK INITIALIZATION
 PAYMENTS INITIALIZATION
 EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
-Time consumed by initial dijkstra executions: 0 s
+Time consumed by initial dijkstra executions: 1 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022767 s
+Time consumed by simulation events: 0.022612 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 130351.0 ms
 Total simulated time: 3910530.0 ms
@@ -5902,7 +5902,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.025433 s
+Time consumed by simulation events: 0.021470 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129496.0 ms
 Total simulated time: 3884880.0 ms
@@ -5914,7 +5914,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022979 s
+Time consumed by simulation events: 0.023192 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 132191.0 ms
 Total simulated time: 3965730.0 ms
@@ -5926,7 +5926,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.024303 s
+Time consumed by simulation events: 0.027571 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 127946.0 ms
 Total simulated time: 3838380.0 ms
@@ -5938,7 +5938,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021230 s
+Time consumed by simulation events: 0.020541 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 130094.0 ms
 Total simulated time: 3902820.0 ms
@@ -5950,7 +5950,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022796 s
+Time consumed by simulation events: 0.020706 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 127879.0 ms
 Total simulated time: 3836370.0 ms
@@ -5962,7 +5962,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.020965 s
+Time consumed by simulation events: 0.021108 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 127293.0 ms
 Total simulated time: 3818790.0 ms
@@ -5972,9 +5972,9 @@ NETWORK INITIALIZATION
 PAYMENTS INITIALIZATION
 EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
-Time consumed by initial dijkstra executions: 0 s
+Time consumed by initial dijkstra executions: 1 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.022253 s
+Time consumed by simulation events: 0.022374 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 127085.0 ms
 Total simulated time: 3812550.0 ms
@@ -5986,7 +5986,7 @@ EVENTS INITIALIZATION
 INITIAL DIJKSTRA THREADS EXECUTION
 Time consumed by initial dijkstra executions: 0 s
 EXECUTION OF THE SIMULATION
-Time consumed by simulation events: 0.021185 s
+Time consumed by simulation events: 0.020370 s
 COMPUTE SIMULATION OUTPUT STATS
 Batch length: 129238.0 ms
 Total simulated time: 3877140.0 ms
