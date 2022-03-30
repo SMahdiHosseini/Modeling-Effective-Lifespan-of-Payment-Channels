@@ -28,8 +28,8 @@ for i in range(number_of_folders):
 f = open("lifeTimes_real.csv", "w+")
 f.write("channel_id,life_time\n")
 for id in range(number_of_channels):
-    print(count_ub[id])
-    if count_ub[id] <= 100:
+    # print(count_ub[id])
+    if count_ub[id] <= 300:
         f.write(",".join([str(id), str(-1)]) + "\n")
         # print("******************************************************")
         continue
