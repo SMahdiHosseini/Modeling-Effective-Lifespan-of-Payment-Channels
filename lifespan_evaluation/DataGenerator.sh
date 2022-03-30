@@ -14,7 +14,8 @@ do
     file_name="$i.csv"
 
     cd ./cloth
-    bash ./run-simulation.sh $i ./output_dir/
+    # bash ./run-simulation.sh $i ./output_dir/
+    ./cloth ./output_dir/
     cd ..
     
     mv ./cloth/output_dir/channels_output.csv $2/$file_name
