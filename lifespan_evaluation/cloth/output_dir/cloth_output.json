@@ -1,9 +1,9 @@
 {
     "Success": {
-        "Mean": "0.9310495994",
-        "Variance": "0.0002105109",
-        "ConfidenceMin": "0.9308791832",
-        "ConfidenceMax": "0.9312200156"
+        "Mean": "0.9260369286",
+        "Variance": "0.0002180265",
+        "ConfidenceMin": "0.9258634970",
+        "ConfidenceMax": "0.9262103602"
     },
     "FailNoPath": {
         "Mean": "0.0000000000",
@@ -12,10 +12,10 @@
         "ConfidenceMax": "0.0000000000"
     },
     "FailNoBalance": {
-        "Mean": "0.0689504006",
-        "Variance": "0.0002105109",
-        "ConfidenceMin": "0.0687799844",
-        "ConfidenceMax": "0.0691208168"
+        "Mean": "0.0739630714",
+        "Variance": "0.0002180265",
+        "ConfidenceMin": "0.0737896398",
+        "ConfidenceMax": "0.0741365030"
     },
     "FailOfflineNode": {
         "Mean": "0.0000000000",
@@ -30,10 +30,10 @@
         "ConfidenceMax": "0.0000000000"
     },
     "Time": {
-        "Mean": "198.9865600996",
-        "Variance": "0.0019459903",
-        "ConfidenceMin": "198.9860419634",
-        "ConfidenceMax": "198.9870782358"
+        "Mean": "199.0041212899",
+        "Variance": "0.0016830046",
+        "ConfidenceMin": "199.0036394350",
+        "ConfidenceMax": "199.0046031448"
     },
     "Attempts": {
         "Mean": "1.0000000000",

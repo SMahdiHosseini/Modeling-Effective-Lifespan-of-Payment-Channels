@@ -272,6 +272,10 @@ void send_payment(struct event* event, struct simulation* simulation, struct net
   unsigned long is_next_node_offline;
   struct node* node;
 
+// *** our changes ***
+  struct channel *forwarding_chennel = NULL;
+  // *** our changes ***
+
   payment = event->payment;
   route = payment->route;
   node = array_get(network->nodes, event->node_id);
@@ -296,6 +300,14 @@ void send_payment(struct event* event, struct simulation* simulation, struct net
   }
 
   if(first_route_hop->amount_to_forward > next_edge->balance) {
+    // *** our changes ***
+    forwarding_chennel = array_get(network->channels, next_edge->channel_id);
+    if (forwarding_chennel->is_unbalanced == 0)
+    {
+      forwarding_chennel->is_unbalanced = 1;
+      forwarding_chennel->unbalancing_time = simulation->current_time;
+    }
+    // *** our changes ***
     payment->error.type = NOBALANCE;
     payment->error.hop = first_route_hop;
     payment->no_balance_count += 1;
@@ -329,8 +341,6 @@ void forward_payment(struct event *event, struct simulation* simulation, struct 
   unsigned int is_last_hop, can_send_htlc;
   struct edge *next_edge = NULL, *prev_edge;
   // *** our changes ***
-  int average_payment_amount = 100;
-  struct edge *next_edge_reverse_direction = NULL;
   struct channel *forwarding_chennel = NULL;
   // *** our changes ***
 
