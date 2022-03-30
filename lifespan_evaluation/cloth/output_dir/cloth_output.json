@@ -1,9 +1,9 @@
 {
     "Success": {
-        "Mean": "0.9260369286",
-        "Variance": "0.0002180265",
-        "ConfidenceMin": "0.9258634970",
-        "ConfidenceMax": "0.9262103602"
+        "Mean": "0.9995323741",
+        "Variance": "0.0000008267",
+        "ConfidenceMin": "0.9995216945",
+        "ConfidenceMax": "0.9995430536"
     },
     "FailNoPath": {
         "Mean": "0.0000000000",
@@ -12,10 +12,10 @@
         "ConfidenceMax": "0.0000000000"
     },
     "FailNoBalance": {
-        "Mean": "0.0739630714",
-        "Variance": "0.0002180265",
-        "ConfidenceMin": "0.0737896398",
-        "ConfidenceMax": "0.0741365030"
+        "Mean": "0.0004676259",
+        "Variance": "0.0000008267",
+        "ConfidenceMin": "0.0004569464",
+        "ConfidenceMax": "0.0004783055"
     },
     "FailOfflineNode": {
         "Mean": "0.0000000000",
@@ -30,21 +30,21 @@
         "ConfidenceMax": "0.0000000000"
     },
     "Time": {
-        "Mean": "199.0041212899",
-        "Variance": "0.0016830046",
-        "ConfidenceMin": "199.0036394350",
-        "ConfidenceMax": "199.0046031448"
+        "Mean": "511.3434028233",
+        "Variance": "522.6803026545",
+        "ConfidenceMin": "511.0748735330",
+        "ConfidenceMax": "511.6119321136"
     },
     "Attempts": {
-        "Mean": "1.0000000000",
-        "Variance": "0.0000000000",
-        "ConfidenceMin": "1.0000000000",
-        "ConfidenceMax": "1.0000000000"
+        "Mean": "1.2773391052",
+        "Variance": "0.0059462435",
+        "ConfidenceMin": "1.2764333831",
+        "ConfidenceMax": "1.2782448273"
     },
     "RouteLength": {
-        "Mean": "1.0000000000",
-        "Variance": "0.0000000000",
-        "ConfidenceMin": "1.0000000000",
-        "ConfidenceMax": "1.0000000000"
+        "Mean": "2.3295164817",
+        "Variance": "0.0010158217",
+        "ConfidenceMin": "2.3291421278",
+        "ConfidenceMax": "2.3298908356"
     }
 }
