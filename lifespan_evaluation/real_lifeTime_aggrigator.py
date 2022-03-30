@@ -7,13 +7,14 @@ channels_path = sys.argv[1]
 number_of_channels = int(sys.argv[2])
 
 filenames = next(walk(channels_path), (None, None, []))[2]  # [] if no file
-
+# filenames.sort()
+print(len(filenames))
 count_ub = [0 for i in range(number_of_channels)]
 unbalancing_time_agg = [0 for i in range(number_of_channels)]
 
 for file in filenames:
     df = pd.read_csv(channels_path + file)
-    print(file)
+    # print(file)
     for id in range(number_of_channels):
         unbalancing_time = df[df['id'] == id]['unbalancing_time'].iloc[0] / 1000
         if unbalancing_time != 0:
