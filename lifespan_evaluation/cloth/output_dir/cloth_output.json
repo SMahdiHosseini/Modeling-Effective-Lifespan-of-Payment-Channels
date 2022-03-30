@@ -30,6 +30,7 @@
         "ConfidenceMax": "0.0000000000"
     },
     "Time": {
+<<<<<<< HEAD
         "Mean": "455.4442768177",
         "Variance": "312.4950417980",
         "ConfidenceMin": "455.2366443992",
@@ -46,5 +47,23 @@
         "Variance": "0.0036752407",
         "ConfidenceMin": "2.2492544556",
         "ConfidenceMax": "2.2506785752"
+=======
+        "Mean": "447.9709459513",
+        "Variance": "171.8320720612",
+        "ConfidenceMin": "447.8169796381",
+        "ConfidenceMax": "448.1249122646"
+    },
+    "Attempts": {
+        "Mean": "1.0389397427",
+        "Variance": "0.0012098615",
+        "ConfidenceMin": "1.0385311962",
+        "ConfidenceMax": "1.0393482891"
+    },
+    "RouteLength": {
+        "Mean": "2.2213431739",
+        "Variance": "0.0026411602",
+        "ConfidenceMin": "2.2207395437",
+        "ConfidenceMax": "2.2219468041"
+>>>>>>> 726e778f815d2fcbeb64c2767894596af40c9eee
     }
 }
