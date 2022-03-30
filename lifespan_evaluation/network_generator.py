@@ -98,7 +98,7 @@ timelock = 140
 seed = 1
 
 r = 1 / (number_of_nodes**2 - number_of_nodes)
-avgPaymentAmount = 150000
+avgPaymentAmount = 1000000
 
 
 G = nx.gnp_random_graph(number_of_nodes, 0.1, seed=seed)
