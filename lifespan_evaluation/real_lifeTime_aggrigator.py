@@ -29,8 +29,8 @@ f = open("lifeTimes_real.csv", "w+")
 f.write("channel_id,life_time\n")
 for id in range(number_of_channels):
     # print(count_ub[id])
-    if count_ub[id] <= 300:
+    if count_ub[id] <= 100:
         f.write(",".join([str(id), str(-1)]) + "\n")
-        # print("******************************************************")
+        print("******************************************************")
         continue
     f.write(",".join([str(id), str(unbalancing_time_agg[id] / count_ub[id])]) + "\n")
