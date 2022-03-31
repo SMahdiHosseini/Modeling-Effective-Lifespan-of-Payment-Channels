@@ -309,10 +309,10 @@ void send_payment(struct event* event, struct simulation* simulation, struct net
       forwarding_chennel->unbalancing_time = simulation->current_time;
     }
     // rebalancing:
-    counter_next_edge = array_get(network->edges, next_edge->counter_edge_id);
+    // counter_next_edge = array_get(network->edges, next_edge->counter_edge_id);
   
-    next_edge->balance = forwarding_chennel->capacity / 2;
-    counter_next_edge->balance = forwarding_chennel->capacity / 2;
+    // next_edge->balance = forwarding_chennel->capacity / 2;
+    // counter_next_edge->balance = forwarding_chennel->capacity / 2;
     
     // *** our changes ***
     payment->error.type = NOBALANCE;
