@@ -60,8 +60,8 @@ void generate_random_payments(struct payments_params pay_params, long n_nodes, g
     } while(sender_id==receiver_id);
 
     // *** our changes ***
-    payment_amount = fabs(pay_params.average_amount + gsl_ran_ugaussian(random_generator))*1000.0;
-    // payment_amount = pay_params.average_amount * 1000.0;
+    // payment_amount = fabs(pay_params.average_amount + gsl_ran_ugaussian(random_generator))*1000.0;
+    payment_amount = fabs(pay_params.average_amount) * 1000.0;
     // *** our changes ***
 
     /* payment interarrival time is an exponential (Poisson process) whose mean is the inverse of payment rate
