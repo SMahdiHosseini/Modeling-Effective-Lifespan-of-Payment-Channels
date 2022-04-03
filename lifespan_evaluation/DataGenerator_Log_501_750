@@ -1,0 +1,3001 @@
+----------------------------------start-genenation-------------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 4.990642 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3229008.0 ms
+Total simulated time: 96870240.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-501-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 3 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 3.212949 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3227476.0 ms
+Total simulated time: 96824280.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-502-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 1 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 3.220721 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3236327.0 ms
+Total simulated time: 97089810.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-503-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 5.352910 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3206830.0 ms
+Total simulated time: 96204900.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-504-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 4 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 5.099064 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3228427.0 ms
+Total simulated time: 96852810.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-505-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 4 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 5.368686 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3233030.0 ms
+Total simulated time: 96990900.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-506-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 4.214051 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3233587.0 ms
+Total simulated time: 97007610.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-507-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 5.157957 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3224081.0 ms
+Total simulated time: 96722430.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-508-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 6.593606 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3218143.0 ms
+Total simulated time: 96544290.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-509-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 7.351777 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3227132.0 ms
+Total simulated time: 96813960.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-510-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 3.982268 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3226927.0 ms
+Total simulated time: 96807810.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-511-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 4.963096 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3233807.0 ms
+Total simulated time: 97014210.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-512-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 3 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 4.257420 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3228537.0 ms
+Total simulated time: 96856110.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-513-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 3 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 4.694379 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3223562.0 ms
+Total simulated time: 96706860.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-514-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.444380 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3212143.0 ms
+Total simulated time: 96364290.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-515-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 3.754414 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3222748.0 ms
+Total simulated time: 96682440.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-516-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 3.450972 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3212695.0 ms
+Total simulated time: 96380850.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-517-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 3.281620 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3229318.0 ms
+Total simulated time: 96879540.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-518-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.262533 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3232190.0 ms
+Total simulated time: 96965700.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-519-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 3.020315 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3245147.0 ms
+Total simulated time: 97354410.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-520-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.967951 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3228631.0 ms
+Total simulated time: 96858930.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-521-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 10.135654 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3209100.0 ms
+Total simulated time: 96273000.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-522-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 6.446612 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3224367.0 ms
+Total simulated time: 96731010.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-523-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 4.432109 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3223177.0 ms
+Total simulated time: 96695310.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-524-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 6.563010 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3221365.0 ms
+Total simulated time: 96640950.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-525-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 1 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 4.290633 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3228236.0 ms
+Total simulated time: 96847080.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-526-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 1 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.510989 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3232387.0 ms
+Total simulated time: 96971610.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-527-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 3.633771 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3215139.0 ms
+Total simulated time: 96454170.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-528-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.168447 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3218869.0 ms
+Total simulated time: 96566070.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-529-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.692533 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3230989.0 ms
+Total simulated time: 96929670.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-530-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 1 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.807355 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3226755.0 ms
+Total simulated time: 96802650.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-531-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.838458 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3214031.0 ms
+Total simulated time: 96420930.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-532-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 3.243039 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3216511.0 ms
+Total simulated time: 96495330.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-533-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 4.600868 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3224831.0 ms
+Total simulated time: 96744930.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-534-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 3.813781 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3217944.0 ms
+Total simulated time: 96538320.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-535-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 3.300180 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3226241.0 ms
+Total simulated time: 96787230.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-536-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 3.253382 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3217063.0 ms
+Total simulated time: 96511890.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-537-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 3.029535 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3211795.0 ms
+Total simulated time: 96353850.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-538-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 1 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.301589 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3223900.0 ms
+Total simulated time: 96717000.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-539-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 5.469132 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3239799.0 ms
+Total simulated time: 97193970.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-540-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 3.926236 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3244536.0 ms
+Total simulated time: 97336080.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-541-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 1 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.909170 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3226808.0 ms
+Total simulated time: 96804240.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-542-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 3.728412 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3231289.0 ms
+Total simulated time: 96938670.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-543-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 3.130620 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3242002.0 ms
+Total simulated time: 97260060.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-544-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 3.030910 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3234171.0 ms
+Total simulated time: 97025130.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-545-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 1 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.488338 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3238007.0 ms
+Total simulated time: 97140210.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-546-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.728497 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3227906.0 ms
+Total simulated time: 96837180.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-547-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 1 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 3.079880 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3227167.0 ms
+Total simulated time: 96815010.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-548-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 3.334592 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3213048.0 ms
+Total simulated time: 96391440.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-549-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 1 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.831660 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3193911.0 ms
+Total simulated time: 95817330.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-550-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 10.023089 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3241433.0 ms
+Total simulated time: 97242990.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-551-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 3.144844 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3237570.0 ms
+Total simulated time: 97127100.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-552-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 8.290002 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3225269.0 ms
+Total simulated time: 96758070.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-553-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.604048 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3223504.0 ms
+Total simulated time: 96705120.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-554-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.394724 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3222238.0 ms
+Total simulated time: 96667140.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-555-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 1 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.514591 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3232399.0 ms
+Total simulated time: 96971970.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-556-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.501703 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3238557.0 ms
+Total simulated time: 97156710.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-557-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.186920 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3217954.0 ms
+Total simulated time: 96538620.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-558-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.337657 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3245911.0 ms
+Total simulated time: 97377330.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-559-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 1 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 3.703853 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3225844.0 ms
+Total simulated time: 96775320.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-560-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.640654 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3222591.0 ms
+Total simulated time: 96677730.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-561-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 4.523265 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3228232.0 ms
+Total simulated time: 96846960.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-562-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.992572 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3222812.0 ms
+Total simulated time: 96684360.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-563-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 1 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 7.108518 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3225373.0 ms
+Total simulated time: 96761190.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-564-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.546530 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3224338.0 ms
+Total simulated time: 96730140.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-565-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 1 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 5.734738 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3201951.0 ms
+Total simulated time: 96058530.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-566-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.069446 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3223002.0 ms
+Total simulated time: 96690060.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-567-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.965866 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3208309.0 ms
+Total simulated time: 96249270.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-568-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.436762 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3219621.0 ms
+Total simulated time: 96588630.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-569-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 3.122601 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3237238.0 ms
+Total simulated time: 97117140.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-570-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.310043 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3216290.0 ms
+Total simulated time: 96488700.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-571-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 3.769393 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3228682.0 ms
+Total simulated time: 96860460.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-572-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 1 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.540332 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3217549.0 ms
+Total simulated time: 96526470.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-573-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.989236 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3224559.0 ms
+Total simulated time: 96736770.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-574-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 3.535500 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3222909.0 ms
+Total simulated time: 96687270.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-575-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 3.701026 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3217449.0 ms
+Total simulated time: 96523470.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-576-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 1 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.183425 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3237686.0 ms
+Total simulated time: 97130580.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-577-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 1 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 3.292615 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3225598.0 ms
+Total simulated time: 96767940.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-578-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 1 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 8.802954 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3235831.0 ms
+Total simulated time: 97074930.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-579-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.865382 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3209371.0 ms
+Total simulated time: 96281130.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-580-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.466930 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3225517.0 ms
+Total simulated time: 96765510.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-581-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 3.155991 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3228646.0 ms
+Total simulated time: 96859380.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-582-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 6.200511 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3228986.0 ms
+Total simulated time: 96869580.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-583-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.615357 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3221268.0 ms
+Total simulated time: 96638040.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-584-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 3.885546 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3206402.0 ms
+Total simulated time: 96192060.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-585-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 5.103644 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3225809.0 ms
+Total simulated time: 96774270.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-586-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 1.996031 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3190680.0 ms
+Total simulated time: 95720400.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-587-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 3.418568 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3218574.0 ms
+Total simulated time: 96557220.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-588-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.929373 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3214217.0 ms
+Total simulated time: 96426510.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-589-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 1 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 5.153217 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3225432.0 ms
+Total simulated time: 96762960.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-590-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 1 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.893154 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3209088.0 ms
+Total simulated time: 96272640.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-591-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 3.136792 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3215009.0 ms
+Total simulated time: 96450270.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-592-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.488863 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3210370.0 ms
+Total simulated time: 96311100.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-593-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 1 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.856050 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3217205.0 ms
+Total simulated time: 96516150.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-594-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.725006 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3214850.0 ms
+Total simulated time: 96445500.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-595-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.312560 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3203495.0 ms
+Total simulated time: 96104850.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-596-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 3.378693 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3225207.0 ms
+Total simulated time: 96756210.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-597-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 3.255987 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3223322.0 ms
+Total simulated time: 96699660.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-598-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 4.604808 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3231118.0 ms
+Total simulated time: 96933540.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-599-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 1 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.777649 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3203630.0 ms
+Total simulated time: 96108900.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-600-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 3.390085 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3223577.0 ms
+Total simulated time: 96707310.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-601-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 4.436400 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3232516.0 ms
+Total simulated time: 96975480.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-602-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 1 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.637328 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3211546.0 ms
+Total simulated time: 96346380.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-603-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 6.287452 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3217676.0 ms
+Total simulated time: 96530280.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-604-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 3.055521 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3205432.0 ms
+Total simulated time: 96162960.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-605-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.451021 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3216461.0 ms
+Total simulated time: 96493830.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-606-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.908073 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3228650.0 ms
+Total simulated time: 96859500.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-607-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 5.046374 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3219531.0 ms
+Total simulated time: 96585930.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-608-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 1 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 4.082233 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3216322.0 ms
+Total simulated time: 96489660.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-609-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 1 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 4.861895 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3220586.0 ms
+Total simulated time: 96617580.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-610-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.536690 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3228887.0 ms
+Total simulated time: 96866610.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-611-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.621133 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3234900.0 ms
+Total simulated time: 97047000.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-612-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.370600 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3230550.0 ms
+Total simulated time: 96916500.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-613-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.848135 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3238385.0 ms
+Total simulated time: 97151550.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-614-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 3.050825 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3231858.0 ms
+Total simulated time: 96955740.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-615-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 1 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 5.295926 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3225522.0 ms
+Total simulated time: 96765660.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-616-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 1 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.888094 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3240207.0 ms
+Total simulated time: 97206210.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-617-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 3.772249 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3220287.0 ms
+Total simulated time: 96608610.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-618-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.262026 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3218394.0 ms
+Total simulated time: 96551820.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-619-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.662592 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3220951.0 ms
+Total simulated time: 96628530.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-620-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.635270 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3238469.0 ms
+Total simulated time: 97154070.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-621-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 3.182435 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3220521.0 ms
+Total simulated time: 96615630.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-622-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 3.017545 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3209515.0 ms
+Total simulated time: 96285450.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-623-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 1 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.589654 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3229544.0 ms
+Total simulated time: 96886320.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-624-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 3.873485 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3216383.0 ms
+Total simulated time: 96491490.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-625-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 11.976950 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3241027.0 ms
+Total simulated time: 97230810.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-626-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 1 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 3.083354 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3212139.0 ms
+Total simulated time: 96364170.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-627-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.970372 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3228427.0 ms
+Total simulated time: 96852810.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-628-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.166609 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3203953.0 ms
+Total simulated time: 96118590.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-629-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.899900 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3226942.0 ms
+Total simulated time: 96808260.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-630-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 1 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 3.025217 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3214382.0 ms
+Total simulated time: 96431460.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-631-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 1 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 3.979895 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3238285.0 ms
+Total simulated time: 97148550.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-632-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 3.174520 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3227261.0 ms
+Total simulated time: 96817830.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-633-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 3.362192 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3215306.0 ms
+Total simulated time: 96459180.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-634-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.957473 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3215938.0 ms
+Total simulated time: 96478140.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-635-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.551902 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3215200.0 ms
+Total simulated time: 96456000.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-636-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 4.505615 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3230442.0 ms
+Total simulated time: 96913260.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-637-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.938079 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3235413.0 ms
+Total simulated time: 97062390.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-638-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.966644 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3223504.0 ms
+Total simulated time: 96705120.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-639-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.845164 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3225181.0 ms
+Total simulated time: 96755430.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-640-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.480746 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3232077.0 ms
+Total simulated time: 96962310.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-641-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.685908 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3239398.0 ms
+Total simulated time: 97181940.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-642-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 3.813520 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3226415.0 ms
+Total simulated time: 96792450.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-643-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.886616 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3214555.0 ms
+Total simulated time: 96436650.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-644-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.548020 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3212584.0 ms
+Total simulated time: 96377520.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-645-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.639206 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3211686.0 ms
+Total simulated time: 96350580.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-646-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.782021 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3222659.0 ms
+Total simulated time: 96679770.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-647-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 4.718088 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3222747.0 ms
+Total simulated time: 96682410.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-648-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 3.730454 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3241845.0 ms
+Total simulated time: 97255350.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-649-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 4.119974 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3233706.0 ms
+Total simulated time: 97011180.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-650-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 3.003193 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3220879.0 ms
+Total simulated time: 96626370.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-651-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.593223 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3213902.0 ms
+Total simulated time: 96417060.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-652-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 1 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.834187 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3223713.0 ms
+Total simulated time: 96711390.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-653-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 8.948095 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3219759.0 ms
+Total simulated time: 96592770.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-654-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.422564 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3216442.0 ms
+Total simulated time: 96493260.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-655-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 4.693559 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3219776.0 ms
+Total simulated time: 96593280.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-656-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 1 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 4.439322 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3244163.0 ms
+Total simulated time: 97324890.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-657-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 3.314877 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3216211.0 ms
+Total simulated time: 96486330.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-658-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.972149 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3233963.0 ms
+Total simulated time: 97018890.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-659-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 1 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 3.093812 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3224358.0 ms
+Total simulated time: 96730740.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-660-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 3.016640 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3233994.0 ms
+Total simulated time: 97019820.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-661-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 3.530390 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3213028.0 ms
+Total simulated time: 96390840.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-662-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 1 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 3.843734 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3232108.0 ms
+Total simulated time: 96963240.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-663-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 3.747696 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3215342.0 ms
+Total simulated time: 96460260.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-664-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 1 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 3.154258 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3226871.0 ms
+Total simulated time: 96806130.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-665-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 1 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 4.466953 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3228816.0 ms
+Total simulated time: 96864480.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-666-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 3.332935 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3227940.0 ms
+Total simulated time: 96838200.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-667-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.631690 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3228814.0 ms
+Total simulated time: 96864420.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-668-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.227228 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3212446.0 ms
+Total simulated time: 96373380.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-669-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.555113 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3229954.0 ms
+Total simulated time: 96898620.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-670-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.428258 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3212016.0 ms
+Total simulated time: 96360480.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-671-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.488729 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3224715.0 ms
+Total simulated time: 96741450.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-672-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.846090 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3210377.0 ms
+Total simulated time: 96311310.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-673-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.098117 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3229668.0 ms
+Total simulated time: 96890040.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-674-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 8.558362 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3208540.0 ms
+Total simulated time: 96256200.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-675-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 5.623436 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3231887.0 ms
+Total simulated time: 96956610.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-676-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 1 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 3.242770 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3218647.0 ms
+Total simulated time: 96559410.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-677-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 1 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.462752 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3211759.0 ms
+Total simulated time: 96352770.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-678-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 5.684923 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3223483.0 ms
+Total simulated time: 96704490.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-679-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 3.944125 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3224817.0 ms
+Total simulated time: 96744510.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-680-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.875553 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3227907.0 ms
+Total simulated time: 96837210.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-681-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 1 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 4.895015 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3217048.0 ms
+Total simulated time: 96511440.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-682-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.277756 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3212889.0 ms
+Total simulated time: 96386670.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-683-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.584091 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3222293.0 ms
+Total simulated time: 96668790.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-684-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.829233 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3246487.0 ms
+Total simulated time: 97394610.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-685-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 1 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.528277 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3217452.0 ms
+Total simulated time: 96523560.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-686-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 4.288355 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3233689.0 ms
+Total simulated time: 97010670.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-687-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 6.362279 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3222325.0 ms
+Total simulated time: 96669750.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-688-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.796130 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3222887.0 ms
+Total simulated time: 96686610.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-689-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.534254 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3229636.0 ms
+Total simulated time: 96889080.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-690-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 3.259059 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3218307.0 ms
+Total simulated time: 96549210.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-691-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 3.018612 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3247942.0 ms
+Total simulated time: 97438260.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-692-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 3.307249 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3234608.0 ms
+Total simulated time: 97038240.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-693-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.970588 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3239491.0 ms
+Total simulated time: 97184730.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-694-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 4.210919 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3214881.0 ms
+Total simulated time: 96446430.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-695-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.535502 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3223800.0 ms
+Total simulated time: 96714000.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-696-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.855993 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3251542.0 ms
+Total simulated time: 97546260.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-697-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 3.491722 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3231613.0 ms
+Total simulated time: 96948390.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-698-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 3.953635 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3226130.0 ms
+Total simulated time: 96783900.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-699-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 5.474729 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3206005.0 ms
+Total simulated time: 96180150.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-700-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 3.214598 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3231065.0 ms
+Total simulated time: 96931950.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-701-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.880570 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3215917.0 ms
+Total simulated time: 96477510.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-702-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 3.994562 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3214694.0 ms
+Total simulated time: 96440820.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-703-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 1 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.165470 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3214621.0 ms
+Total simulated time: 96438630.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-704-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 1 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.980891 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3227022.0 ms
+Total simulated time: 96810660.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-705-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.813259 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3239516.0 ms
+Total simulated time: 97185480.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-706-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.216578 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3238428.0 ms
+Total simulated time: 97152840.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-707-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 3.104775 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3204586.0 ms
+Total simulated time: 96137580.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-708-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.576448 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3227455.0 ms
+Total simulated time: 96823650.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-709-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 3.186628 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3226817.0 ms
+Total simulated time: 96804510.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-710-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 3.714562 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3221763.0 ms
+Total simulated time: 96652890.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-711-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 3.797705 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3223169.0 ms
+Total simulated time: 96695070.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-712-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 1 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.699314 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3221259.0 ms
+Total simulated time: 96637770.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-713-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 3.443561 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3247690.0 ms
+Total simulated time: 97430700.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-714-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.868876 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3220996.0 ms
+Total simulated time: 96629880.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-715-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 3.672753 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3222591.0 ms
+Total simulated time: 96677730.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-716-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 3.076977 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3229357.0 ms
+Total simulated time: 96880710.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-717-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 3.019381 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3215875.0 ms
+Total simulated time: 96476250.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-718-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 3.415441 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3222544.0 ms
+Total simulated time: 96676320.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-719-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.956274 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3241835.0 ms
+Total simulated time: 97255050.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-720-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.344008 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3216916.0 ms
+Total simulated time: 96507480.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-721-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 6.023315 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3210040.0 ms
+Total simulated time: 96301200.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-722-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 3.111796 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3212486.0 ms
+Total simulated time: 96374580.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-723-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 5.348479 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3242704.0 ms
+Total simulated time: 97281120.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-724-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.569212 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3210332.0 ms
+Total simulated time: 96309960.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-725-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.655448 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3214348.0 ms
+Total simulated time: 96430440.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-726-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 1 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.457988 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3228089.0 ms
+Total simulated time: 96842670.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-727-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.434266 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3232110.0 ms
+Total simulated time: 96963300.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-728-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 4.001231 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3230677.0 ms
+Total simulated time: 96920310.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-729-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.424174 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3232975.0 ms
+Total simulated time: 96989250.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-730-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 4.055408 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3229056.0 ms
+Total simulated time: 96871680.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-731-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 5.336231 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3215038.0 ms
+Total simulated time: 96451140.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-732-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 3.302031 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3227835.0 ms
+Total simulated time: 96835050.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-733-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 4.923166 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3254138.0 ms
+Total simulated time: 97624140.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-734-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 3.703589 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3220715.0 ms
+Total simulated time: 96621450.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-735-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 3.697651 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3223502.0 ms
+Total simulated time: 96705060.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-736-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 3.001892 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3220346.0 ms
+Total simulated time: 96610380.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-737-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 1 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.373618 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3237676.0 ms
+Total simulated time: 97130280.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-738-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.999386 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3211294.0 ms
+Total simulated time: 96338820.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-739-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 1 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.284552 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3231234.0 ms
+Total simulated time: 96937020.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-740-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 3.017147 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3228066.0 ms
+Total simulated time: 96841980.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-741-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 1 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 5.821501 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3238799.0 ms
+Total simulated time: 97163970.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-742-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 3.319203 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3240964.0 ms
+Total simulated time: 97228920.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-743-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 4.296137 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3227941.0 ms
+Total simulated time: 96838230.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-744-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.247181 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3222546.0 ms
+Total simulated time: 96676380.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-745-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 6.398887 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3227538.0 ms
+Total simulated time: 96826140.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-746-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 1 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.840123 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3218438.0 ms
+Total simulated time: 96553140.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-747-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.924217 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3227451.0 ms
+Total simulated time: 96823530.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-748-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 2.472182 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3216948.0 ms
+Total simulated time: 96508440.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-749-generated----------------------------------
+NETWORK INITIALIZATION
+PAYMENTS INITIALIZATION
+EVENTS INITIALIZATION
+INITIAL DIJKSTRA THREADS EXECUTION
+Time consumed by initial dijkstra executions: 2 s
+EXECUTION OF THE SIMULATION
+Time consumed by simulation events: 3.884861 s
+COMPUTE SIMULATION OUTPUT STATS
+Batch length: 3219045.0 ms
+Total simulated time: 96571350.0 ms
+SIMULATION OUTPUT STATS SAVED IN <./output_dir/cloth_output.json>
+----------------------------data-number-750-generated----------------------------------
