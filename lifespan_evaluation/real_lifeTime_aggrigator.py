@@ -26,7 +26,7 @@ for i in range(number_of_folders):
     
     
 f = open("lifeTimes_real.csv", "w+")
-f.write("channel_id,life_time,error\n")
+f.write("channel_id,life_time,error,count\n")
 for id in range(number_of_channels):
     # print(count_ub[id])
     if len(unbalancing_times_matrix[id]) <= 100:
@@ -34,4 +34,4 @@ for id in range(number_of_channels):
         print("******************************************************")
         continue
     f.write(",".join([str(id), str(np.average(unbalancing_times_matrix[id])), 
-    str(sqrt(np.var(unbalancing_times_matrix[id]) / len(unbalancing_times_matrix[id])))]) + "\n")
+    str(sqrt(np.var(unbalancing_times_matrix[id]) / len(unbalancing_times_matrix[id]))), str(len(unbalancing_times_matrix[id]))]) + "\n")
