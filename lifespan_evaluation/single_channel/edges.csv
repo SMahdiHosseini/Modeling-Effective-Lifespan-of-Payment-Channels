@@ -1,0 +1,3 @@
+id,channel_id,counter_edge_id,from_node_id,to_node_id,balance,fee_base,fee_proportional,min_htlc,timelock
+0,0,1,0,1,20063745,0,0,100,140
+1,0,0,1,0,20063745,0,0,100,140
