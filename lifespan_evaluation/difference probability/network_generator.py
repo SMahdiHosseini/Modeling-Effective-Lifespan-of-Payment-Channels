@@ -72,18 +72,17 @@ def set_attributes():
         a["node2_id"] = v
         a["capacity"] = int(np.random.normal(average_capacity, average_capacity / 10, 1)[0])
         last_chennal_id += 1
-9
 
 def write_expected_lifetimes():
     f = open("lifeTimes.csv", "w+")
     f.write("channel_id,life_time\n")
     
 
-    for u,v,a in H.edges(data=True):
+    for u,v,at in H.edges(data=True):
         p = lambdas[(u, v)] / (lambdas[(u, v)] + lambdas[(v, u)])
         q = lambdas[(v, u)] / (lambdas[(u, v)] + lambdas[(v, u)])
-        a = (a["capacity"] / average_payment_amount) / 2
-        b = (a["capacity"] / average_payment_amount) / 2
+        a = (at["capacity"] / average_payment_amount) / 2
+        b = (at["capacity"] / average_payment_amount) / 2
         rate = (lambdas[(u, v)] + lambdas[(v, u)])
         if p == q:
             expected_steps = a * b
@@ -91,7 +90,7 @@ def write_expected_lifetimes():
             expected_steps = ((a * (p ** a) * ((p ** b) - (q ** b))) + (b * (q ** b) * ((q ** a) - (p ** a)))) / ((p - q) * ((p ** (a + b)) - (q ** (a + b))))
 
         expected_life_time = expected_steps / rate
-        f.write(",".join([a["id"], str(expected_life_time)]) + "\n")
+        f.write(",".join([str(at["id"]), str(expected_life_time)]) + "\n")
 
 def edge_included_shortest_path(shortest_paths, u, v):
     number_of_paths = 0
@@ -162,6 +161,6 @@ write_edges_to_csv()
 all_shortest_paths_ = all_shortest_paths()
 lambdas = calc_lambdas(all_shortest_paths_)
 
-# write_expected_lifetimes()
+write_expected_lifetimes()
 
 print(G)
