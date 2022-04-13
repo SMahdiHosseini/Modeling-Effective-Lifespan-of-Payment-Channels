@@ -1,6 +1,6 @@
 if [ $# -lt 3 ]
 then
-    echo "usage: $0 <data count> <outputdir>"
+    echo "usage: $0 <average payment> <average capacity> <number of nodes> <channel existance probabilitity> <data count> <outputdir>"
     exit
 fi
 
