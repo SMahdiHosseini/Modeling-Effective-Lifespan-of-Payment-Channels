@@ -30,10 +30,10 @@
         "ConfidenceMax": "0.0000000000"
     },
     "Time": {
-        "Mean": "199.0004252329",
-        "Variance": "0.0000680501",
-        "ConfidenceMin": "199.0003283409",
-        "ConfidenceMax": "199.0005221250"
+        "Mean": "198.9972391567",
+        "Variance": "0.0559187560",
+        "ConfidenceMin": "198.9944616677",
+        "ConfidenceMax": "199.0000166457"
     },
     "Attempts": {
         "Mean": "1.0000000000",

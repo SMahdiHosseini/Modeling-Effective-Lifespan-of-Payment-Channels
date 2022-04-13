@@ -127,19 +127,19 @@ seed = int(sys.argv[1])
 number_of_nodes = int(sys.argv[2])
 channel_existance_prob = float(sys.argv[3])
 average_capacity = int(sys.argv[4])
-average_payment_amount = int(sys.argv[5])
+average_payment_amount = int(sys.argv[5]) *1000
 MRates_file = str(sys.argv[6])
-fee_base = 0
-fee_proportional = 0
-min_htlc = 100
-timelock = 140
+fee_base = int(sys.argv[7])
+fee_proportional = int(sys.argv[8])
+min_htlc = int(sys.argv[9])
+timelock = int(sys.argv[10])
 
 # Read MRates and save
 Mrates = {}
 file = open(MRates_file)
 lines = file.readlines()
 for i in range(len(lines)):
-    line = [int(i) for i in lines[i].split(',')]
+    line = [float(k) for k in lines[i].split(',')]
     for j in range(len(line)):
         # if line[j] != 0:
         Mrates[(i, j)] = line[j]
@@ -152,7 +152,6 @@ for u,v,a in H.edges(data=True):
     G.add_edge(v, u)
 
 
-
 set_attributes()
 write_nodes_to_csv()
 write_channels_to_csv()
@@ -163,4 +162,4 @@ lambdas = calc_lambdas(all_shortest_paths_)
 
 write_expected_lifetimes()
 
-print(G)
+print(len(H.edges(data=True)))
