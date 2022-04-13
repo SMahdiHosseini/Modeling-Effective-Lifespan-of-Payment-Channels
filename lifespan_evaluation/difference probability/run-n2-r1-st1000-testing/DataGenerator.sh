@@ -60,6 +60,7 @@ done
 python real_lifeTime_aggrigator.py ./$result_dir/$CHANNEL_DATA_FOLDER $n_channels 1
 
 cp ./lifeTimes_real.csv ./$result_dir/lifeTimes_real.csv
+cp ./lifeTimes.csv ./$result_dir/lifeTimes.csv
 cp ./Mrates.csv ./$result_dir/Mrates.csv
 cp ./DataGenerator.sh ./$result_dir/DataGenerator.sh
 cp ./cloth/cloth_input.txt ./$result_dir/cloth_input.txt

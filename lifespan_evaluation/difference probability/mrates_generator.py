@@ -13,7 +13,7 @@ MRates = [[-1 for i in range(number_of_nodes)] for j in range(number_of_nodes)]
 
 for i in range(number_of_pairs):
     x, y = np.random.choice(range(number_of_nodes), 2, False)
-    MRates[x][y] = np.abs(np.random.normal(average_rate, std_rate))
+    MRates[x][y] = np.abs(np.random.normal(average_rate*4, std_rate))
     MRates[y][x] = np.abs(np.random.normal(average_rate, std_rate))
 
 

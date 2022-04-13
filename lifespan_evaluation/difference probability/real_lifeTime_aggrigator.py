@@ -12,12 +12,11 @@ number_of_folders = int(sys.argv[3])
 unbalancing_times_matrix = [[] for i in range(number_of_channels)]
 
 for i in range(number_of_folders):
-    filenames = next(walk(channels_path + "_" + str(i)), (None, None, []))[2]  # [] if no file
+    filenames = next(walk(channels_path), (None, None, []))[2]  # [] if no file
     # filenames.sort()
-    print(len(filenames))
 
     for file in filenames:
-        df = pd.read_csv(channels_path + "_" + str(i) + "/" + file)
+        df = pd.read_csv(channels_path + "/" + file)
         # print(file)
         for id in range(number_of_channels):
             unbalancing_time = df[df['id'] == id]['unbalancing_time'].iloc[0] / 1000.
@@ -29,9 +28,8 @@ f = open("lifeTimes_real.csv", "w+")
 f.write("channel_id,life_time,error,count\n")
 for id in range(number_of_channels):
     # print(count_ub[id])
-    if len(unbalancing_times_matrix[id]) <= 100:
+    if len(unbalancing_times_matrix[id]) <= 0:
         f.write(",".join([str(id), str(-1)]) + "\n")
-        print("******************************************************")
         continue
     f.write(",".join([str(id), str(np.average(unbalancing_times_matrix[id])), 
     str(sqrt(np.var(unbalancing_times_matrix[id]) / len(unbalancing_times_matrix[id]))), str(len(unbalancing_times_matrix[id]))]) + "\n")

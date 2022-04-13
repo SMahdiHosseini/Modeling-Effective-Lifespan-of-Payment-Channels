@@ -36,7 +36,7 @@ for key in Mrates.keys():
         while payment_time <= simulation_time * 1000:
             payment_time += np.random.poisson(1 / Mrates[key] * 1000) # pyaments times in millisecond
             # id += 1
-            payments_df.loc[len(payments_df.index)] =  [int(key[0]), int(key[1]), np.random.normal(payment_amount_avg, payment_amount_std), payment_time]
+            payments_df.loc[len(payments_df.index)] =  [int(key[0]), int(key[1]), np.random.normal(payment_amount_avg, payment_amount_std) * 1000, payment_time]
 
 payments_df = payments_df.sort_values('start_time', ignore_index=True)
 payments_df.index.name = 'id'
