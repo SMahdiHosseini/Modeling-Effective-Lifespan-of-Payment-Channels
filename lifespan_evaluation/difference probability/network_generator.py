@@ -84,6 +84,8 @@ def write_expected_lifetimes():
         a = (at["capacity"] / average_payment_amount) / 2
         b = (at["capacity"] / average_payment_amount) / 2
         rate = (lambdas[(u, v)] + lambdas[(v, u)])
+        # print("u:", u, " v:", v, " cap:", at["capacity"])
+        # print("p:", p, " q:", q)
         if p == q:
             expected_steps = a * b
         else:
