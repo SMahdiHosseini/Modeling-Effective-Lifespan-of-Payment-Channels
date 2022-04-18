@@ -38,7 +38,7 @@ rm -r $result_dir
 mkdir $result_dir
 mkdir $result_dir/$CHANNEL_DATA_FOLDER
 
-# python3 mrates_generator.py $SEED $N_NODES $SPARSE_COEF $AVERAGE_RATE $STD_RATE
+python3 mrates_generator.py $SEED $N_NODES $SPARSE_COEF $AVERAGE_RATE $STD_RATE
 
 n_channels=$(python3 network_generator.py $SEED $N_NODES $CHANNEL_EXISTANCE_PROB $AVERAGE_CAPACITY $AVERAGE_PAYMENT_AMOUNT $MRATES_FILE $FEE_BASE $FEE_PROPORTIONAL $MIN_HTLC $TIMELOCK $CAPACITY_STD)
 
