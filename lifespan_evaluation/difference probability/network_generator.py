@@ -70,7 +70,7 @@ def set_attributes():
         a["edge2_id"] = 2 * last_chennal_id + 1
         a["node1_id"] = u
         a["node2_id"] = v
-        a["capacity"] = int(np.random.normal(average_capacity, average_capacity / 10, 1)[0])
+        a["capacity"] = int(np.random.normal(average_capacity, capacity_std, 1)[0])
         last_chennal_id += 1
 
 def write_expected_lifetimes():
@@ -79,19 +79,27 @@ def write_expected_lifetimes():
     
 
     for u,v,at in H.edges(data=True):
+        # print("for u:", u, "and v:", v, "id is", at["id"])
+        # print("lambda u,v:", lambdas[(u, v)], "and lambda v,u:", lambdas[(v, u)])
         p = lambdas[(u, v)] / (lambdas[(u, v)] + lambdas[(v, u)])
         q = lambdas[(v, u)] / (lambdas[(u, v)] + lambdas[(v, u)])
+        # print("p:", p)
+        # print("q:", q)
         a = (at["capacity"] / average_payment_amount) / 2
         b = (at["capacity"] / average_payment_amount) / 2
+        # print("a:", a)
+        # print("b:", b)
         rate = (lambdas[(u, v)] + lambdas[(v, u)])
+        # print("rate:", rate)
         # print("u:", u, " v:", v, " cap:", at["capacity"])
         # print("p:", p, " q:", q)
         if p == q:
             expected_steps = a * b
         else:
             expected_steps = ((a * (p ** a) * ((p ** b) - (q ** b))) + (b * (q ** b) * ((q ** a) - (p ** a)))) / ((p - q) * ((p ** (a + b)) - (q ** (a + b))))
-
+        # print("expected steps:", expected_steps)
         expected_life_time = expected_steps / rate
+        # print("expected life:", expected_life_time)
         f.write(",".join([str(at["id"]), str(expected_life_time)]) + "\n")
 
 def edge_included_shortest_path(shortest_paths, u, v):
@@ -135,6 +143,9 @@ fee_base = int(sys.argv[7])
 fee_proportional = int(sys.argv[8])
 min_htlc = int(sys.argv[9])
 timelock = int(sys.argv[10])
+capacity_std = int(sys.argv[11])
+
+np.random.seed(seed)
 
 # Read MRates and save
 Mrates = {}

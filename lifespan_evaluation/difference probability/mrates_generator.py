@@ -11,11 +11,17 @@ number_of_pairs = int(((number_of_nodes ** 2) - number_of_nodes) * sparse_coef)
 
 MRates = [[-1 for i in range(number_of_nodes)] for j in range(number_of_nodes)]
 
-for i in range(number_of_pairs):
-    x, y = np.random.choice(range(number_of_nodes), 2, False)
-    MRates[x][y] = np.abs(np.random.normal(average_rate*4, std_rate))
-    MRates[y][x] = np.abs(np.random.normal(average_rate, std_rate))
-
+# for i in range(number_of_pairs):
+#     x, y = np.random.choice(range(number_of_nodes), 2, False)
+#     MRates[x][y] = np.abs(np.random.normal(average_rate*4, std_rate))
+#     MRates[y][x] = np.abs(np.random.normal(average_rate, std_rate))
+    
+for x in range(number_of_nodes):
+    for y in range(x + 1, number_of_nodes):
+        if np.random.binomial(1, sparse_coef) == 1:
+            MRates[x][y] = np.abs(np.random.normal(average_rate*4, std_rate))
+        if np.random.binomial(1, sparse_coef) == 1:
+            MRates[y][x] = np.abs(np.random.normal(average_rate, std_rate))
 
 f = open("Mrates.csv", "w+")
 for i in range(number_of_nodes):

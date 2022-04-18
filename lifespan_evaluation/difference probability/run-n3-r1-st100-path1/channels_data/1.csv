@@ -1,0 +1,4 @@
+id,edge1,edge2,node1,node2,capacity,is_closed,is_unbalanced,unbalancing_time
+0,0,1,0,1,20396855,0,1,4693
+1,2,3,0,2,19287502,0,1,2331
+2,4,5,1,2,15218279,0,1,3223

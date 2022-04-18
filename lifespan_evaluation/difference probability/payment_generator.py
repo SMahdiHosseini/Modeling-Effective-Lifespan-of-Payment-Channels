@@ -34,7 +34,7 @@ for key in Mrates.keys():
     payment_time = 0
     if Mrates[key] != 0:
         while payment_time <= simulation_time * 1000:
-            payment_time += np.random.poisson(1 / Mrates[key] * 1000) # pyaments times in millisecond
+            payment_time += np.random.exponential(1 / Mrates[key] * 1000) # pyaments times in millisecond
             # id += 1
             payments_df.loc[len(payments_df.index)] =  [int(key[0]), int(key[1]), np.random.normal(payment_amount_avg, payment_amount_std) * 1000, payment_time]
 

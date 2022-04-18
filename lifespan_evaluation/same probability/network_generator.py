@@ -89,19 +89,22 @@ def write_expected_lifetimes():
 # number of nodes = 100
 # number of channels = 1000
 # 
-number_of_nodes = 100
-average_capacity = 120000000
+number_of_nodes = 10
+average_capacity = 18000000
+capacity_std = 0
 fee_base = 0
 fee_proportional = 0
 min_htlc = 100
 timelock = 140
-seed = 1
+seed = 10
 
-r = 1 / (number_of_nodes**2 - number_of_nodes)
+np.random.seed(seed)
+
+r = 1 #1 / (number_of_nodes**2 - number_of_nodes)
 avgPaymentAmount = 1000000
 
 
-G = nx.gnp_random_graph(number_of_nodes, 1, seed=seed)
+G = nx.gnp_random_graph(number_of_nodes, .7, seed=seed)
 
 set_attributes()
 write_nodes_to_csv()
