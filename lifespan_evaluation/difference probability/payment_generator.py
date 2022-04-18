@@ -61,8 +61,8 @@ p3.join()
 all_payments_df = pd.concat(payments_df)
 
 
-payments_df = payments_df.sort_values('start_time', ignore_index=True)
-payments_df.index.name = 'id'
+all_payments_df = all_payments_df.sort_values('start_time', ignore_index=True)
+all_payments_df.index.name = 'id'
 # print(payments_df.apply(convert).info())
-payments_df.apply(convert).to_csv("payments.csv", index=True)
+all_payments_df.apply(convert).to_csv("payments.csv", index=True)
     
