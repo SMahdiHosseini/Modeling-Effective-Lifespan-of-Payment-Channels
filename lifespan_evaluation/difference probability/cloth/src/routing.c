@@ -79,7 +79,7 @@ void* dijkstra_thread(void*arg) {
     pthread_mutex_lock(&data_mutex);
     payment = array_get(thread_args->payments, payment_id);
     pthread_mutex_unlock(&data_mutex);
-    hops = dijkstra(payment->sender, payment->receiver, payment->amount, thread_args->network, thread_args->current_time, thread_args->data_index, &error);
+    hops = dijkstra(payment->sender, payment->receiver, payment->amount, thread_args->network, thread_args->current_time, thread_args->data_index, &error, thread_args->simulation);
     paths[payment->id] = hops;
   }
 
@@ -88,7 +88,7 @@ void* dijkstra_thread(void*arg) {
 
 
 /* run dijkstra threads to find the initial paths of the payments (before the simulation starts) */
-void run_dijkstra_threads(struct network*  network, struct array* payments, uint64_t current_time) {
+void run_dijkstra_threads(struct network*  network, struct array* payments, uint64_t current_time, struct simulation* simulation) {
   long i;
   pthread_t tid[N_THREADS];
   struct thread_args *thread_args;
@@ -98,6 +98,7 @@ void run_dijkstra_threads(struct network*  network, struct array* payments, uint
     thread_args->payments = payments;
     thread_args->current_time = current_time;
     thread_args->data_index = i;
+    thread_args->simulation = simulation;
     pthread_create(&(tid[i]), NULL, dijkstra_thread, (void*) thread_args);
    }
 
@@ -327,8 +328,12 @@ double get_edge_weight(uint64_t amount, uint64_t fee, uint32_t timelock){
 }
 
 /* a modified version of dijkstra to find a path connecting the source (payment sender) to the target (payment receiver) */
-struct array* dijkstra(long source, long target, uint64_t amount, struct network* network, uint64_t current_time, long p, enum pathfind_error *error) {
+struct array* dijkstra(long source, long target, uint64_t amount, struct network* network, uint64_t current_time, long p, enum pathfind_error *error, struct simulation* simulation) {
   struct distance *d=NULL, to_node_dist;
+  // *** our change ***
+  long d_index = 0;
+  struct distance **tempd = malloc(sizeof(struct distance*)*100);
+  // *** our change ***
   long i, best_node_id, j, from_node_id, curr;
   struct node *source_node, *best_node;
   struct edge* edge=NULL;
@@ -374,6 +379,35 @@ struct array* dijkstra(long source, long target, uint64_t amount, struct network
   while(heap_len(distance_heap[p])!=0) {
 
     d = heap_pop(distance_heap[p], compare_distance);
+    
+    // *** our change ***
+    d_index = 0;
+    for (i = 0; i < 100; i++)
+      tempd[i] = NULL;
+    tempd[0] = d;
+    tempd[1] = heap_pop(distance_heap[p], compare_distance);
+
+    i = 1;
+    while(tempd[i] != NULL && tempd[i]->distance == d->distance){
+      tempd[i + 1] = heap_pop(distance_heap[p], compare_distance);
+      i++;
+    }
+    if(tempd[i] != NULL){
+      heap_insert(distance_heap[p], tempd[i], compare_distance);
+    }
+    tempd[i] = NULL;
+    d_index = gsl_rng_uniform_int(simulation->random_generator, i);
+    d = tempd[d_index];
+
+    for (j = 0; j < i; j++){
+      if (j != d_index){
+        heap_insert(distance_heap[p], tempd[j], compare_distance);
+      }
+    }
+
+    // *** our change ***
+
+
     best_node_id = d->node;
     if(best_node_id==source) break;
 

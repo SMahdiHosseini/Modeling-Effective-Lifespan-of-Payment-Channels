@@ -221,7 +221,7 @@ void find_path(struct event *event, struct simulation* simulation, struct networ
   if (payment->attempts==1)
     path = paths[payment->id];
   else
-    path = dijkstra(payment->sender, payment->receiver, payment->amount, network, simulation->current_time, 0, &error);
+    path = dijkstra(payment->sender, payment->receiver, payment->amount, network, simulation->current_time, 0, &error, simulation);
 
   if (path != NULL) {
     generate_send_payment_event(payment, path, simulation, network);
@@ -232,12 +232,12 @@ void find_path(struct event *event, struct simulation* simulation, struct networ
   if(mpp && path == NULL && !(payment->is_shard) && payment->attempts == 1 ){
     shard1_amount = payment->amount/2;
     shard2_amount = payment->amount - shard1_amount;
-    shard1_path = dijkstra(payment->sender, payment->receiver, shard1_amount, network, simulation->current_time, 0, &error);
+    shard1_path = dijkstra(payment->sender, payment->receiver, shard1_amount, network, simulation->current_time, 0, &error, simulation);
     if(shard1_path == NULL){
       payment->end_time = simulation->current_time;
       return;
     }
-    shard2_path = dijkstra(payment->sender, payment->receiver, shard2_amount, network, simulation->current_time, 0, &error);
+    shard2_path = dijkstra(payment->sender, payment->receiver, shard2_amount, network, simulation->current_time, 0, &error, simulation);
     if(shard2_path == NULL){
       payment->end_time = simulation->current_time;
       return;

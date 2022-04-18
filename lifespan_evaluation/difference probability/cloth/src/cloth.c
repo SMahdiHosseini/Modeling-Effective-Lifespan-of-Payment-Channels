@@ -324,7 +324,7 @@ int main(int argc, char *argv[]) {
   initialize_dijkstra(n_nodes, n_edges, payments);
   printf("INITIAL DIJKSTRA THREADS EXECUTION\n");
   clock_gettime(CLOCK_MONOTONIC, &start);
-  run_dijkstra_threads(network, payments, 0);
+  run_dijkstra_threads(network, payments, 0, simulation);
   clock_gettime(CLOCK_MONOTONIC, &finish);
   time_spent_thread = finish.tv_sec - start.tv_sec;
   printf("Time consumed by initial dijkstra executions: %ld s\n", time_spent_thread);
