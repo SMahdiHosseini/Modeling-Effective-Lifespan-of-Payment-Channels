@@ -85,8 +85,8 @@ def write_expected_lifetimes():
         q = lambdas[(v, u)] / (lambdas[(u, v)] + lambdas[(v, u)])
         # print("p:", p)
         # print("q:", q)
-        a = (at["capacity"] / average_payment_amount) / 2
-        b = (at["capacity"] / average_payment_amount) / 2
+        a = int((at["capacity"] / average_payment_amount) / 2) * 1.
+        b = int((at["capacity"] / average_payment_amount) / 2) * 1.
         # print("a:", a)
         # print("b:", b)
         rate = (lambdas[(u, v)] + lambdas[(v, u)])
