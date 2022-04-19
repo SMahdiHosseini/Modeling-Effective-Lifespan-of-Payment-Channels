@@ -13,21 +13,8 @@ payment_amount_std = int(sys.argv[5])
 
 np.random.seed(seed)
 
-def generate_payment(Mrate_keys, tid):
-    for key in Mrate_keys:
-        payment_time = 0
-        if Mrates[key] != 0:
-            while payment_time <= simulation_time * 1000:
-                payment_time += np.random.exponential(1 / Mrates[key] * 1000) # pyaments times in millisecond
-                payments_df[tid].loc[len(payments_df[tid].index)] =  [int(key[0]), int(key[1]), np.random.normal(payment_amount_avg, payment_amount_std) * 1000, payment_time]
 
-
-def convert(x):
-    try:
-        return x.astype(int)
-    except:
-        return x
-
+payments_df = [pd.DataFrame(columns=['sender_id','receiver_id','amount','start_time']) for i in range(processCount)]
 # Read MRates and save
 Mrates = {}
 file = open(MRates_file)
@@ -38,28 +25,52 @@ for i in range(len(lines)):
         # if line[j] != 0:
         Mrates[(i, j)] = line[j]
 
+def generate_payment(Mrate_keys, tid, return_dict):
+    for key in Mrate_keys:
+        payment_time = 0
+        if Mrates[key] != 0:
+            while payment_time <= simulation_time * 1000:
+                payment_time += np.random.exponential(1 / Mrates[key] * 1000) # pyaments times in millisecond
+                payments_df[tid].loc[len(payments_df[tid].index)] =  [int(key[0]), int(key[1]), np.random.normal(payment_amount_avg, payment_amount_std) * 1000, payment_time]
+    return_dict[procnum] = payments_df[procnum]
+    # print(payments_df[tid].info())
+
+def convert(x):
+    try:
+        return x.astype(int)
+    except:
+        return x
+
+
 # Generate Payments
 ## Create Empty dataframe
-payments_df = [pd.DataFrame(columns=['sender_id','receiver_id','amount','start_time']) for i in range(processCount)]
 keys = [key for key in Mrates.keys()]
 
-p0 = multiprocessing.Process(target=generate_payment, args=(keys[0::4], 0))
-p1 = multiprocessing.Process(target=generate_payment, args=(keys[1::4], 1))
-p2 = multiprocessing.Process(target=generate_payment, args=(keys[2::4], 2))
-p3 = multiprocessing.Process(target=generate_payment, args=(keys[3::4], 3))
+manager = multiprocessing.Manager()
+return_dict = manager.dict()
 
-p0.start()
-p1.start()
-p2.start()
-p3.start()
+jobs = []
 
-p0.join()
-p1.join()
-p2.join()
-p3.join()
+for procnum in range(processCount):
+    proc = multiprocessing.Process(target=generate_payment, args=(keys[procnum::4], procnum, return_dict))
+    jobs.append(proc)
+    proc.start()
 
-all_payments_df = pd.concat(payments_df)
+for proc in jobs:
+    proc.join()
 
+
+
+all_payments_df = return_dict[0]
+all_payments_df = all_payments_df.append(return_dict[1])
+all_payments_df = all_payments_df.append(return_dict[2])
+all_payments_df = all_payments_df.append(return_dict[3])
+
+# print(return_dict[0].info())
+# print(return_dict[1].info())
+# print(return_dict[2].info())
+# print(return_dict[3].info())
+# print(all_payments_df.info())
 
 all_payments_df = all_payments_df.sort_values('start_time', ignore_index=True)
 all_payments_df.index.name = 'id'
