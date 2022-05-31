@@ -7,8 +7,8 @@ then
 fi
 
 SEED=11
-N_NODES=25
-CHANNEL_EXISTANCE_PROB=$(python -c "print(0.2)")
+N_NODES=5
+CHANNEL_EXISTANCE_PROB=$(python -c "print(1)")
 AVERAGE_CAPACITY=18000000
 CAPACITY_STD=1800000
 AVERAGE_PAYMENT_AMOUNT=1000
@@ -34,9 +34,9 @@ rm -r $final_result_dir
 mkdir $final_result_dir
 
 
-for SPARSE_COEF in $(python -c "print(0.1)") $(python -c "print(0.5)") $(python -c "print(0.7)") $(python -c "print(1)")
+for SPARSE_COEF in $(python -c "print(1)")
 do
-    for MRATE_SKEW in 1 4 6 10
+    for MRATE_SKEW in 4
     do
 
         echo "---------------------start-genenation---with-spase-$SPARSE_COEF-and--MRATE_SKEW-$MRATE_SKEW--------------------------------"
